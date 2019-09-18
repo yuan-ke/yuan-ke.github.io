@@ -12,7 +12,11 @@ author_profile: true
 1. **Structure Identification in Panel Data Analysis**    
    Yuan Ke, Jialiang Li and Wenyang Zhang      
    *The Annals of Statistics*, **44** (3), 1193 – 1233, 2016       
-   [[PDF](http://yuan-ke.github.io/files/KeLiZhang_16.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/KeLiZhang_16_supp.pdf)]  &nbsp; [[DOI](https://projecteuclid.org/euclid.aos/1460381691)]      
+   [[PDF](http://yuan-ke.github.io/files/KeLiZhang_16.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/KeLiZhang_16_supp.pdf)]  &nbsp; [[DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034)]      
+1. **A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine**    
+   Yuan Ke, Bo Fu and Wenyang Zhang      
+   *Statistics in Medicine*, **35** (26), 4764 – 4778, 2016       
+   [[PDF](http://yuan-ke.github.io/files/KeFuZhang_16.pdf)] &nbsp;   [[DOI](https://projecteuclid.org/euclid.aos/1460381691)]
 1. **Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models**      
     Degui Li, Yuan Ke and Wenyang Zhang        
     *The Annals of Statistics*, **43** (6), 2676-2705, 2015    
