@@ -5,7 +5,7 @@ permalink: /publication/li2015model
 excerpt: ''
 date: 2015
 venue: 'Annals of Statistics'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Degui Li, Yuan Ke and Wenyang Zhang. (2015). &quot;Model Selection and Structure Specification in Ultra-High Dimensional Generalised Semi-Varying Coefficient Models,&quot; <i>Annals of Statistics</i>, 44(3), 1193 &#8211 1233.'
 ---
 #This paper is about the number 1. The number 2 is left for future work.
