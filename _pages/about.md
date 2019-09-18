@@ -11,6 +11,9 @@ redirect_from:
 <span style="font-size:1.2em;"> My name is Yuan Ke. I am an Assistant Professor in [Department of Statistics](https://www.stat.uga.edu/) at the [University of Georgia](https://www.uga.edu/). Before I join UGA, I
 was the Bruce Lindsay Visiting Assistant Professor in the Department of Statistics at Pennsylvania State University, hosted by Professor [Runze Li](http://personal.psu.edu/ril4/). Before that I was a Postdoctoral Research Associate in the Department of ORFE at Princeton University, hosted by Professor [Jianqing Fan](https://orfe.princeton.edu/~jqfan/). I received my PhD degree in Mathematics form the University of York under the supervision of Professor [Wenyang Zhang](http://www-users.york.ac.uk/~wz645/). I received MSc degree in Statistics form London School of Economics and BSc degree in Physics form Beijing Normal University.</span>
 
+
+<!--
+
 Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -63,3 +66,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
