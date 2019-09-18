@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan Ke"
+  name             : #"Yuan Ke"
   avatar           : "profile.png"
-  bio              : "Assistant Professor
-                      Department of Statistics
-                      University of Georgia"
+  bio              : #"Assistant Professor
+                      #Department of Statistics
+                      #University of Georgia"
   #location         : "Location"
-  employer         : "University of Georgia"
+  employer         : "526 Brooks Hall, Athens, GA"
   googlescholar    : "https://scholar.google.com/citations?user=hQrrJBUAAAAJ&hl=en"
   email            : "yuan.ke@uga.edu"
   uri              :
