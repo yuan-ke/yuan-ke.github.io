@@ -13,7 +13,7 @@ author_profile: true
 1. **Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models**      
     Degui Li, Yuan Ke and Wenyang Zhang        
     *The Annals of Statistics*, **43** (6), 2676-2705, 2015    
-    [PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf)
+    [PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf) [Supplement](http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf) [DOI](https://projecteuclid.org/euclid.aos/1444222089#abstract)
 
 
 
