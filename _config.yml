@@ -85,7 +85,7 @@ author:
   bio              : #"Assistant Professor
                       #Department of Statistics
                       #University of Georgia"
-  location         : "https://www.google.com/maps/place/Brooks+Hall/@33.9542165,-83.3750916,15z/data=!4m5!3m4!1s0x0:0x4831df3feca5f9bb!8m2!3d33.9542165!4d-83.3750916"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hQrrJBUAAAAJ&hl=en"
   email            : "yuan.ke@uga.edu"
