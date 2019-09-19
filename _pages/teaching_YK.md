@@ -5,13 +5,12 @@ author_profile: true
 
 ---
 
-<span style="font-size:1.2em;">
-I have been working on statistical methodological research for massive datasets inspired by economics, finance and biostatistics. My research philosophy is to develop innovative statistical thinking and serve the data dependent society with effective and efficient data analysis tools.  My ongoing research interests are as follows.
+## Teaching at UGA
 
+* <span style="font-size:1.2em;">STAT 6510: Mathematical Statistics I, Fall 2019 </span>         
+* <span style="font-size:1.2em;">STAT 4/6250: Applied Multivariate Analysis and Statistical Learning, Spring 2019 </span>         
+* <span style="font-size:1.2em;">STAT 6510: Mathematical Statistics I, Fall 2018 </span>     
 
-* Statistical machine learning      
-* Robust Statistical methods        
-* Time series analysis      
-* Non/Semi-parametric modeling         
-* Financial Econometrics      
-</span>
+## Teaching at PSU
+
+* <span style="font-size:1.2em;">STAT 414: Introduction to Probability Theory, Spring 2018 </span>  
