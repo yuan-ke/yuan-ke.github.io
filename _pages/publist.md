@@ -9,6 +9,10 @@ author_profile: true
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. **Nonlinear Regression Using Subset-Based Kernel Principal Components**    
+   Yuan Ke, Degui Li and Qiwei Yao      
+   *Statistica Sinica*, **28**, 2771-2794, 2018        
+   [[PDF](http://yuan-ke.github.io/files/KeLiYao_16.pdf)] &nbsp;  [[DOI](http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html)]
 1. **Structure Identification in Panel Data Analysis**    
    Yuan Ke, Jialiang Li and Wenyang Zhang      
    *The Annals of Statistics*, **44** (3), 1193 – 1233, 2016       
