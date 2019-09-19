@@ -9,6 +9,18 @@ author_profile: true
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
+   Jianqing Fan, Yuan Ke and Yuan Liao      
+   *Journal of Econometrics*, **to appear**, 2019       
+   [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]       
+1. **User-friendly covariance estimation for heavy-tailed distributions**    
+   Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou      
+   *Statistical Science*, **to appear**, 2019       
+   [[PDF](http://yuan-ke.github.io/files/RobustCov.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/RobustCov_supp.pdf)]       
+1. **FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control**    
+   Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou      
+   *Journal of the American Statistical Association*, **to appear**, 2019       
+   [[PDF](http://yuan-ke.github.io/files/FarmTest.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FarmTest_supp.pdf)]  &nbsp; [[DOI](https://doi.org/10.1080/01621459.2018.1527700)]     
 1. **Nonlinear Regression Using Subset-Based Kernel Principal Components**    
    Yuan Ke, Degui Li and Qiwei Yao      
    *Statistica Sinica*, **28**, 2771-2794, 2018        
@@ -26,6 +38,9 @@ author_profile: true
     *The Annals of Statistics*, **43** (6), 2676-2705, 2015    
     [[PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf)]  &nbsp; [[DOI](https://projecteuclid.org/euclid.aos/1444222089)]
 
+
+    FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control
+    Jianqing Fan,Yuan Ke ORCID Icon,Qiang Sun &Wen-Xin Zhou ORCID Icon
 
 
 
