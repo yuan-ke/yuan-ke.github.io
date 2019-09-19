@@ -1,5 +1,5 @@
 ---
-permalink: /publist/
+permalink: /publication/
 title: "Publications"
 author_profile: true
 
