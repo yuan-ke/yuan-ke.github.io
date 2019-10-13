@@ -5,6 +5,10 @@ author_profile: true
 
 ---
 
+1. **Factor-Adjusted Regularized Model Selection**    
+   Jianqing Fan, Yuan Ke and Kaizheng Wang      
+   *Journal of Econometrics*, to appear, 2019       
+   [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)] 
 1. **Large-scale optimal transport map estimation using projection pursuit**    
    Cheng Meng, Yuan Ke Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma      
    *NeurIPS 2019*, to appear, 2019
@@ -14,8 +18,8 @@ author_profile: true
    [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]       
 1. **User-friendly covariance estimation for heavy-tailed distributions**    
    Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou      
-   *Statistical Science*, to appear, 2019       
-   [[PDF](http://yuan-ke.github.io/files/RobustCov.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/RobustCov_supp.pdf)]       
+   *Statistical Science*, **34**, 454-471, 2019       
+   [[PDF](http://yuan-ke.github.io/files/RobustCov.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/RobustCov_supp.pdf)]   &nbsp; [[DOI](http://dx.doi.org/10.1214/19-STS711)]    
 1. **FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control**    
    Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou      
    *Journal of the American Statistical Association*, to appear, 2019       
