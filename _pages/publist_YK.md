@@ -4,6 +4,7 @@ title: "Publications"
 author_profile: true
 
 ---
+<ol reversed>
 1. **Factor-Adjusted Regularized Model Selection**    
    Jianqing Fan, Yuan Ke and Kaizheng Wang      
    *Journal of Econometrics*, to appear, 2019       
@@ -39,3 +40,4 @@ author_profile: true
     Degui Li, Yuan Ke and Wenyang Zhang        
     *The Annals of Statistics*, **43**, 2676-2705, 2015    
     [[PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf)]  &nbsp; [[DOI](https://projecteuclid.org/euclid.aos/1444222089)]
+</ol>
