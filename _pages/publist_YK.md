@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 
 ---
-1-. **Factor-Adjusted Regularized Model Selection**    
+1. **Factor-Adjusted Regularized Model Selection**    
    Jianqing Fan, Yuan Ke and Kaizheng Wang      
    *Journal of Econometrics*, to appear, 2019       
    [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)]
