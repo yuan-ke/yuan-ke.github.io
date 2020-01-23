@@ -10,7 +10,8 @@ author_profile: true
    [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)]
 1. **Large-scale optimal transport map estimation using projection pursuit**    
    Cheng Meng, Yuan Ke Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma      
-   *NeurIPS 2019*, to appear, 2019
+   *NeurIPS 2019*,  2019
+   [[PDF](http://yuan-ke.github.io/files/NIPS2019.pdf)]
 1. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
    Jianqing Fan, Yuan Ke and Yuan Liao      
    *Journal of Econometrics*, to appear, 2019       
@@ -21,7 +22,7 @@ author_profile: true
    [[PDF](http://yuan-ke.github.io/files/RobustCov.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/RobustCov_supp.pdf)]   &nbsp; [[DOI](http://dx.doi.org/10.1214/19-STS711)]    
 1. **FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control**    
    Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou      
-   *Journal of the American Statistical Association*, to appear, 2019       
+   *Journal of the American Statistical Association*, **114**, 1880-1893, 2019       
    [[PDF](http://yuan-ke.github.io/files/FarmTest.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FarmTest_supp.pdf)]  &nbsp; [[DOI](https://doi.org/10.1080/01621459.2018.1527700)]     
 1. **Nonlinear Regression Using Subset-Based Kernel Principal Components**    
    Yuan Ke, Degui Li and Qiwei Yao      
