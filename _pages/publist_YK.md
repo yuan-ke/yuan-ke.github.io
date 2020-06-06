@@ -4,18 +4,21 @@ title: "Publications"
 author_profile: true
 
 ---
+1. **High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**    
+   Heng Lian, Yuan Ke and Wenyang Zhang      
+   *Journal of Business & Economic Statistics*, to appear, 2020       
+1. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
+   Jianqing Fan, Yuan Ke and Yuan Liao      
+   *Journal of Econometrics*, to appear, 2020       
+   [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]  
 1. **Factor-Adjusted Regularized Model Selection**    
    Jianqing Fan, Yuan Ke and Kaizheng Wang      
-   *Journal of Econometrics*, to appear, 2019       
-   [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)]
+   *Journal of Econometrics*, **216**, 71-85, 2020     
+   [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)] &nbsp;  [[DOI](https://doi.org/10.1016/j.jeconom.2020.01.006)]
 1. **Large-scale optimal transport map estimation using projection pursuit**    
    Cheng Meng, Yuan Ke Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma      
    *NeurIPS 2019*,  2019
-   [[PDF](http://yuan-ke.github.io/files/NIPS2019.pdf)]
-1. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
-   Jianqing Fan, Yuan Ke and Yuan Liao      
-   *Journal of Econometrics*, to appear, 2019       
-   [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]       
+   [[PDF](http://yuan-ke.github.io/files/NIPS2019.pdf)] &nbsp;  [[DOI](https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit)]
 1. **User-friendly covariance estimation for heavy-tailed distributions**    
    Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou      
    *Statistical Science*, **34**, 454-471, 2019       
