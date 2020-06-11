@@ -18,7 +18,7 @@ author_profile: true
    *Journal of Econometrics*, **216**, 71-85, 2020  [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)] &nbsp;  [[DOI](https://doi.org/10.1016/j.jeconom.2020.01.006)]
 1. **Large-scale optimal transport map estimation using projection pursuit**    
    Cheng Meng, Yuan Ke Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma      
-   *NeurIPS 2019*,  2019  [[PDF](http://yuan-ke.github.io/files/NIPS2019.pdf)] &nbsp;  [[DOI](https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit)]
+   *NeurIPS 2019*  [[PDF](http://yuan-ke.github.io/files/NIPS2019.pdf)] &nbsp;  [[DOI](https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit)]
 1. **User-friendly covariance estimation for heavy-tailed distributions**    
    Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou      
    *Statistical Science*, **34**, 454-471, 2019  [[PDF](http://yuan-ke.github.io/files/RobustCov.pdf)] &nbsp;  [[Supp](http://yuan-ke.github.io/files/RobustCov_supp.pdf)]   &nbsp; [[DOI](http://dx.doi.org/10.1214/19-STS711)]    
