@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 
 ---
-1. **Model-free Feature Screening and FDR Control with Knockoff Features**    
+1-. **Model-free Feature Screening and FDR Control with Knockoff Features**    
    Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li      
    *Journal of the American Statistical Association*, accepted, 2020  
 1. **High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**    
