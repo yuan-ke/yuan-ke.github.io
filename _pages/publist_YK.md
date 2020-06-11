@@ -4,12 +4,15 @@ title: "Publications"
 author_profile: true
 
 ---
+1. **Model-free Feature Screening and FDR Control with Knockoff Features**    
+   Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li      
+   *Journal of the American Statistical Association*, accepted, 2020  
 1. **High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**    
    Heng Lian, Yuan Ke and Wenyang Zhang      
-   *Journal of Business & Economic Statistics*, to appear, 2020       
+   *Journal of Business & Economic Statistics*, accepted, 2020       
 1. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
    Jianqing Fan, Yuan Ke and Yuan Liao      
-   *Journal of Econometrics*, to appear, 2020       
+   *Journal of Econometrics*, accepted, 2020       
    [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supplement](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]  
 1. **Factor-Adjusted Regularized Model Selection**    
    Jianqing Fan, Yuan Ke and Kaizheng Wang      
