@@ -11,7 +11,7 @@ author_profile: true
    Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li      
    *Journal of the American Statistical Association*, accepted, 2020  [[DOI](https://doi.org/10.1080/01621459.2020.1783274)]
 1. **High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**    
-   Heng Lian, Yuan Ke and Wenyang Zhang      
+   Yuan Ke, Heng Lian and Wenyang Zhang      
    *Journal of Business & Economic Statistics*, accepted, 2020       
 1. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
    Jianqing Fan, Yuan Ke and Yuan Liao      
