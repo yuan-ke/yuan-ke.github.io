@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. **Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data**    
    Changliang Zou, Yuan Ke, and Wenyang Zhang      
-   *Journal of the American Statistical Association*, accepted, 2020  
+   *Journal of the American Statistical Association*, accepted, 2020  [[DOI](https://doi.org/10.1080/01621459.2020.1799813)]  
 1. **Model-free Feature Screening and FDR Control with Knockoff Features**    
    Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li      
    *Journal of the American Statistical Association*, accepted, 2020  [[DOI](https://doi.org/10.1080/01621459.2020.1783274)]
