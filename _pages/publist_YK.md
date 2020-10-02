@@ -10,7 +10,7 @@ author_profile: true
 11\. **Model-free Feature Screening and FDR Control with Knockoff Features**    
    Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li      
    *Journal of the American Statistical Association*, accepted, 2020  [[DOI](https://doi.org/10.1080/01621459.2020.1783274)]     
-10\. **High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**    
+10\. **High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**      
    Yuan Ke, Heng Lian and Wenyang Zhang      
    *Journal of Business & Economic Statistics*, accepted, 2020    [[DOI](https://doi.org/10.1080/07350015.2020.1779079)]       
 9\. **Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
