@@ -9,7 +9,7 @@ author_profile: true
 
 
 * <span style="font-size:1.2em;">Statistical machine learning</span>         
-* <span style="font-size:1.2em;">Robust Statistical methods</span>         
+* <span style="font-size:1.2em;">Robust statistical methods</span>         
 * <span style="font-size:1.2em;">Time series analysis</span>      
 * <span style="font-size:1.2em;">Non/Semi-parametric modeling</span>           
 * <span style="font-size:1.2em;">Financial Econometrics</span>      
