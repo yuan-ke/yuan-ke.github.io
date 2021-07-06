@@ -4,12 +4,16 @@ title: "Publications"
 author_profile: true
 
 ---
+
+1. **Improving COVID-19 Forecasting by Exogenous Variables**    
+  Mohammadhossein Toutiaee, ..., Yuan Ke, et al.
+*7th Workshop on Mining and Learning from Time Series (MiLeTS) at KDD 2021*, accepted, 2021
 1. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
   Xiao Di, Yuan Ke, and Runze Li      
   *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  
 1. **FarmTest: An R package for factor-adjusted robust multiple testing**    
   Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou      
-  *The R Journal*, accepted, 2021   
+  *The R Journal*,**12**, 372-387, 2020   [[DOI](https://journal.r-project.org/archive/2021/RJ-2021-023/index.html)]
 1. **Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data**    
    Changliang Zou, Yuan Ke, and Wenyang Zhang      
    *Journal of the American Statistical Association*, accepted, 2020  [[DOI](https://doi.org/10.1080/01621459.2020.1799813)]      
