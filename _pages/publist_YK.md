@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 1. **Improving COVID-19 Forecasting by Exogenous Variables**    
-  Mohammadhossein Toutiaee, ..., Yuan Ke, et al.
-*7th Workshop on Mining and Learning from Time Series (MiLeTS) at KDD 2021*, accepted, 2021
+  Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
+  *7th Workshop on Mining and Learning from Time Series (MiLeTS) at KDD 2021*, accepted, 2021
 1. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
   Xiao Di, Yuan Ke, and Runze Li      
   *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  
