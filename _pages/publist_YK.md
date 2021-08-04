@@ -9,7 +9,7 @@ author_profile: true
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
   *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]
 1. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
-  Xiao Di, Yuan Ke, and Runze Li      
+  Di Xiao, Yuan Ke, and Runze Li      
   *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  
 1. **FarmTest: An R package for factor-adjusted robust multiple testing**    
   Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou      
