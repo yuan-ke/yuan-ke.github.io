@@ -3,7 +3,6 @@ permalink: /publication/
 title: "<span style="font-size:1.0em;"> Pub"
 author_profile: true
 
-\vspace{-2cm}
 ---
 ## Publications
 
