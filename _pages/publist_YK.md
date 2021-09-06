@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<span style="font-size:1.0em;">  
+<span style="font-size:0.5em;">  
 1. **Improving COVID-19 Forecasting by Exogenous Variables**    
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
   *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]
@@ -52,6 +52,6 @@ author_profile: true
 1. **Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models**      
     Degui Li, Yuan Ke and Wenyang Zhang        
     *The Annals of Statistics*, **43**, 2676-2705, 2015  [[PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf)] &nbsp;  [[Supp](http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf)]  &nbsp; [[DOI](https://projecteuclid.org/euclid.aos/1444222089)]     
-  </span>  
+
 
 ## Preprints
