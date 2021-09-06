@@ -56,5 +56,13 @@ author_profile: true
 
 ## Preprints
 
-1. <span style="font-size:0.9em;">**Feature screening for high-dimensional optimaltransport problems with approximate FDP control**    
-Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong, Ping Ma
+1. <span style="font-size:0.9em;">**Feature screening for high-dimensional optimal transport problems with approximate FDP control**    
+Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong and Ping Ma
+1. <span style="font-size:0.9em;">**Best Subset Selection: Statistical Computing Meets Quantum Computing**    
+Wenxuan Zhong, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen and Ping Ma [[arXiv](https://arxiv.org/abs/2107.08359)]
+1. <span style="font-size:0.9em;">**A Generalized Knockoff Procedure for FDR Control in Structural Change Detection**    
+Jingyuan Liu, Ao Sun and Yuan Ke [[arXiv](https://arxiv.org/abs/2108.10595)]
+1. <span style="font-size:0.9em;">**Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity**    
+Murilo da Silva, T.N. Sriram and Yuan Ke
+1. <span style="font-size:0.9em;">**Nonasymptotic theories for tail-robust autocovariance matrix estimation methods**    
+Haotian Xu, Yuan Ke, St&eacutephane Guerrier and Runze Li
