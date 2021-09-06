@@ -1,6 +1,6 @@
 ---
 permalink: /publication/
-title: "<span style="font-size:1.0em;"> Pub"
+title: ""
 author_profile: true
 
 ---
