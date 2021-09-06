@@ -4,8 +4,8 @@ title: "Publications"
 author_profile: true
 
 ---
-
-1. <span style="font-size:0.85em;">**Improving COVID-19 Forecasting by Exogenous Variables**    
+<span style="font-size:0.85em;">
+1. **Improving COVID-19 Forecasting by Exogenous Variables**    
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
   *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]</span>
 1. <span style="font-size:0.9em;">**Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
