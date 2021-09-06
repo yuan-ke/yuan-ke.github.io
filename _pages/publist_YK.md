@@ -1,7 +1,9 @@
 ---
 permalink: /publication/
+title: ""
 author_profile: true
 
+\vspace{-2cm}
 ---
 ## Publications
 
