@@ -9,7 +9,7 @@ author_profile: true
 
 1. <span style="font-size:0.9em;">**Improving COVID-19 Forecasting by Exogenous Variables**    
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
-  *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]</span>
+  *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]
 1. <span style="font-size:0.9em;">**Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
   Di Xiao, Yuan Ke, and Runze Li      
   *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  
@@ -55,3 +55,6 @@ author_profile: true
 
 
 ## Preprints
+
+1. <span style="font-size:0.9em;">**Feature screening for high-dimensional optimaltransport problems with approximate FDP control**    
+Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong, Ping Ma
