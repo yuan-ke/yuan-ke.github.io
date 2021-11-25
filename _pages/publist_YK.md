@@ -12,6 +12,9 @@ author_profile: true
 1. <span style="font-size:0.9em;">**Improving COVID-19 Forecasting by Exogenous Variables**    
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
   *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]
+1. <span style="font-size:0.9em;">**Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
+   Jianqing Fan, Yuan Ke and Yuan Liao      
+   *Journal of Econometrics*, **222**, 269-294, 2021  [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supp](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]  
 1. <span style="font-size:0.9em;">**Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
   Di Xiao, Yuan Ke, and Runze Li      
   *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  
@@ -27,9 +30,6 @@ author_profile: true
 1. <span style="font-size:0.9em;">**High Dimensional Dynamic Covariance Matrices with Homogeneous Structure**      
    Yuan Ke, Heng Lian and Wenyang Zhang      
    *Journal of Business & Economic Statistics*, accepted, 2020    [[DOI](https://doi.org/10.1080/07350015.2020.1779079)]       
-1. <span style="font-size:0.9em;">**Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia**    
-   Jianqing Fan, Yuan Ke and Yuan Liao      
-   *Journal of Econometrics*, accepted, 2020  [[PDF](http://yuan-ke.github.io/files/FanKeLiao_19.pdf)] &nbsp;  [[Supp](http://yuan-ke.github.io/files/FanKeLiao_19_supp.pdf)]       
 1. <span style="font-size:0.9em;">**Factor-Adjusted Regularized Model Selection**    
    Jianqing Fan, Yuan Ke and Kaizheng Wang      
    *Journal of Econometrics*, **216**, 71-85, 2020  [[PDF](http://yuan-ke.github.io/files/FARMselect.pdf)] &nbsp;  [[DOI](https://doi.org/10.1016/j.jeconom.2020.01.006)]     
