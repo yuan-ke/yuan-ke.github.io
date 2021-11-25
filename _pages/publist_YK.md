@@ -8,7 +8,7 @@ author_profile: true
 
 1. <span style="font-size:0.9em;">**Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information**    
   Yogesh Chaudhari, ..., Yuan Ke, et al.        
-  *IEEE DSS-2021*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]
+  *IEEE DSS-2021*, 2021, accepted.
 1. <span style="font-size:0.9em;">**Improving COVID-19 Forecasting by Exogenous Variables**    
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.        
   *7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)*, 2021, accepted. [[arXiv](https://arxiv.org/abs/2107.10397)]
