@@ -14,7 +14,7 @@ was the Bruce Lindsay Visiting Assistant Professor in the Department of Statisti
 
 ## Contact information
 
-* <span style="font-size:1.2em;">**Address**: 526 Brooks Hall, Athens, GA 30602</span>
+* <span style="font-size:1.2em;">**Address**: 404 Brooks Hall, Athens, GA 30602</span>
 * <span style="font-size:1.2em;">**Email**: yuan dot ke at uga dot edu</span>
 
 
