@@ -197,10 +197,10 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 -->
 
 
-<p style="font-size:15px">
-<ol>
 
-<li>
+<ol style="font-size:10px">
+
+<li style="font-size:15px">
 <b>Feature screening for high-dimensional optimal transport problems with approximate FDP control</b> <br>
 Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong and Ping Ma    
 </li>
@@ -228,4 +228,3 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 </li>
 
 </ol>
-</p>
