@@ -57,7 +57,13 @@ author_profile: true
 
 
   <ol reversed>
-  <li>Coffee</li>
+  <li>
+  <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
+  Degui Li, Yuan Ke and Wenyang Zhang <br>
+  <i>The Annals of Statistics</i>, <b>43</b>, 2676-2705, 2015  <a href="http://yuan-ke.github.io/files/LiKeZhang_15.pdf">[PDF]</a>  
+  <a href="http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf">[Supp]</a>  
+  <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
+  </li>
   <li>Tea</li>
   <li>Milk</li>
   </ol>
