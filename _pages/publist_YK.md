@@ -58,21 +58,21 @@ author_profile: true
 
   <ol reversed>
 
-  <li>
+  <li style="font-size:15px>
   <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
   Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li   <br>
   <i>Journal of the American Statistical Association</i>, accepted, 2020   
   <a href="https://doi.org/10.1080/01621459.2020.1783274">[DOI]</a>  
   </li>
 
-  <li>
+  <li style="font-size:20px>
   <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
   Yuan Ke, Heng Lian and Wenyang Zhang  <br>
   <i>Journal of Business & Economic Statistics</i>, accepted, 2020   
   <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
   </li>
 
-  <li>
+  <li style="font-size:25px>
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
   Jianqing Fan, Yuan Ke and Kaizheng Wang   <br>
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
@@ -80,7 +80,7 @@ author_profile: true
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
 
-  <li>
+  <li style="font-size:30px>
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
   Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
   <i>NeurIPS 2019</i>,   
