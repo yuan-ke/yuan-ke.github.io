@@ -72,6 +72,12 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 
+<ol>
+<li>Apple</li>
+<li>Banana</li>
+<li>Orange</li>
+</ol>
+
 
 <ol reversed>
 <li>Coffee</li>
