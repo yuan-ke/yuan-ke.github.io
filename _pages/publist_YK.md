@@ -72,10 +72,8 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 
-<ol>
-    <li>1
-    <li>2
-    <li>3
-    <li>4
-    <li>5
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
 </ol>
