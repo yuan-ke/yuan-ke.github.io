@@ -68,18 +68,3 @@ Jingyuan Liu, Ao Sun and Yuan Ke [[arXiv](https://arxiv.org/abs/2108.10595)]
 Murilo da Silva, T.N. Sriram and Yuan Ke
 1. <span style="font-size:0.9em;">**Nonasymptotic theories for tail-robust autocovariance matrix estimation methods**    
 Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
-
-
-
-
-<ol reversed>
-  <li>3. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
-    Di Xiao, Yuan Ke, and Runze Li      
-    *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  </li>
-  <li>2. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
-      Di Xiao, Yuan Ke, and Runze Li      
-      *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  </li>
-  <li>1. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
-        Di Xiao, Yuan Ke, and Runze Li      
-        *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  </li>
-</ol>
