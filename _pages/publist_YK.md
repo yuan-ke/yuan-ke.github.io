@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 ## Publications
-
+<!--
 1. <span style="font-size:0.9em;">**Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information**    
   Yogesh Chaudhari, ..., Yuan Ke, et al.        
   *IEEE DSS-2021*, 2021, accepted.
@@ -55,8 +55,44 @@ author_profile: true
     Degui Li, Yuan Ke and Wenyang Zhang        
     *The Annals of Statistics*, **43**, 2676-2705, 2015  [[PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf)] &nbsp;  [[Supp](http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf)]  &nbsp; [[DOI](https://projecteuclid.org/euclid.aos/1444222089)]     
 
+-->
+
 
   <ol reversed>
+
+  <li>
+  <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
+  Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
+  <i>IEEE DSS-2021</i>, accepted, 2021   
+  </li>
+
+  <li>
+  <b>Improving COVID-19 Forecasting by Exogenous Variables</b> <br>
+  Mohammadhossein Toutiaee, ..., Yuan Ke, et al.     <br>
+  <i>7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)</i>, accepted, 2021   
+  <a href="https://arxiv.org/abs/2107.10397">[arXiv]</a>  
+  </li>
+
+  <li>
+  <b>Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia</b> <br>
+  ianqing Fan, Yuan Ke and Yuan Liao   <br>
+  <i>Journal of Econometrics</i>, <b>222</b>, 269-294, 2021
+  <a href="https://doi.org/10.1016/j.jeconom.2020.07.002">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors</b> <br>
+  Di Xiao, Yuan Ke, and Runze Li   <br>
+  <i>Journal of Machine Learning Research</i>, <b>22</b>, 1-42, 2021
+  <a href="http://jmlr.org/papers/v22/19-1018.html">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>FarmTest: An R package for factor-adjusted robust multiple testing</b> <br>
+  Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou       <br>
+  <i>The R Journal</i>, <b>12</b>, 372-387, 2020
+  <a href="https://journal.r-project.org/archive/2021/RJ-2021-023/index.html">[DOI]</a>  
+  </li>
 
   <li>
   <b>Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data</b> <br>
@@ -64,7 +100,6 @@ author_profile: true
   <i>Journal of the American Statistical Association</i>, accepted, 2020   
   <a href="https://doi.org/10.1080/01621459.2020.1799813">[DOI]</a>  
   </li>
-
 
   <li>
   <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
