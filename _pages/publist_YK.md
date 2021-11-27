@@ -73,7 +73,13 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 <ol reversed>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>3. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
+    Di Xiao, Yuan Ke, and Runze Li      
+    *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  </li>
+  <li>2. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
+      Di Xiao, Yuan Ke, and Runze Li      
+      *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  </li>
+  <li>1. **Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors**    
+        Di Xiao, Yuan Ke, and Runze Li      
+        *Journal of Machine Learning Research*, **22**(13), 1-42, 2021   [[DOI](http://jmlr.org/papers/v22/19-1018.html)]  </li>
 </ol>
