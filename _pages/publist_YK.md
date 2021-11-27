@@ -58,7 +58,7 @@ author_profile: true
 -->
 
 
-  <ol reversed style="font-size:18px">
+  <ol reversed style="font-size:17px">
 
   <li>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
