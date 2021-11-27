@@ -75,7 +75,7 @@ author_profile: true
 
   <li>
   <b>Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia</b> <br>
-  ianqing Fan, Yuan Ke and Yuan Liao   <br>
+  Jianqing Fan, Yuan Ke and Yuan Liao   <br>
   <i>Journal of Econometrics</i>, <b>222</b>, 269-294, 2021
   <a href="https://doi.org/10.1016/j.jeconom.2020.07.002">[DOI]</a>  
   </li>
