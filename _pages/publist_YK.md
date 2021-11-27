@@ -57,6 +57,22 @@ author_profile: true
 
 
   <ol reversed>
+
+  <li>
+  <b>Structure Identification in Panel Data Analysis</b> <br>
+  Yuan Ke, Jialiang Li and Wenyang Zhang <br>
+  <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016  <a href="http://yuan-ke.github.io/files/KeLiZhang_16.pdf">[PDF]</a>  
+  <a href="http://yuan-ke.github.io/files/KeLiZhang_16_supp.pdf">[Supp]</a>  
+  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine</b> <br>
+  Yuan Ke, Bo Fu and Wenyang Zhang <br>
+  <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016  <a href="http://yuan-ke.github.io/files/KeFuZhang_16.pdf">[PDF]</a>  
+  <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
+  </li>
+
   <li>
   <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
   Degui Li, Yuan Ke and Wenyang Zhang <br>
@@ -64,6 +80,7 @@ author_profile: true
   <a href="http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf">[Supp]</a>  
   <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
   </li>
+
   <li>Tea</li>
   <li>Milk</li>
   </ol>
