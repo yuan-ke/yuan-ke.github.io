@@ -183,7 +183,7 @@ author_profile: true
 
 
 ## Preprints
-
+<!--
 1. <span style="font-size:0.9em;">**Feature screening for high-dimensional optimal transport problems with approximate FDP control**    
 Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong and Ping Ma
 1. <span style="font-size:0.9em;">**Best Subset Selection: Statistical Computing Meets Quantum Computing**    
@@ -194,7 +194,7 @@ Jingyuan Liu, Ao Sun and Yuan Ke [[arXiv](https://arxiv.org/abs/2108.10595)]
 Murilo da Silva, T.N. Sriram and Yuan Ke
 1. <span style="font-size:0.9em;">**Nonasymptotic theories for tail-robust autocovariance matrix estimation methods**    
 Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
-
+-->
 
 
 <p style="font-size:15px">
