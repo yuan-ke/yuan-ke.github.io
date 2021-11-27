@@ -59,6 +59,61 @@ author_profile: true
   <ol reversed>
 
   <li>
+  <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
+  Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li   <br>
+  <i>Journal of the American Statistical Association</i>, accepted, 2020   
+  <a href="https://doi.org/10.1080/01621459.2020.1783274">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
+  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
+  <i>Journal of Business & Economic Statistics</i>, accepted, 2020   
+  <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>Factor-Adjusted Regularized Model Selection</b> <br>
+  Jianqing Fan, Yuan Ke and Kaizheng Wang   <br>
+  <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
+  <a href="http://yuan-ke.github.io/files/FARMselect.pdf">[PDF]</a>
+  <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
+  Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
+  <i>NeurIPS 2019</i>,   
+  <a href="http://yuan-ke.github.io/files/NIPS2019.pdf">[PDF]</a>
+  <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Link]</a>  
+  </li>
+
+  <li>
+  <b>User-friendly covariance estimation for heavy-tailed distributions</b> <br>
+  Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou  <br>
+  <i>Statistical Science</i>, <b>34</b>, 454-471, 2019  
+  <a href="http://yuan-ke.github.io/files/RobustCov.pdf">[PDF]</a>
+  <a href="http://yuan-ke.github.io/files/RobustCov_supp.pdf">[Supp]</a>   
+  <a href="http://dx.doi.org/10.1214/19-STS711">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control</b> <br>
+  Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou  <br>
+  <i>Journal of the American Statistical Association</i>, <b>114</b>, 1880-1893, 2019  
+  <a href="http://yuan-ke.github.io/files/FarmTest.pdf">[PDF]</a>
+  <a href="http://yuan-ke.github.io/files/FarmTest_supp.pdf">[Supp]</a>   
+  <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>Nonlinear Regression Using Subset-Based Kernel Principal Components</b> <br>
+  Yuan Ke, Degui Li and Qiwei Yao <br>
+  <i>Statistica Sinica</i>, <b>28</b>, 2771-2794, 2018  <a href="http://yuan-ke.github.io/files/KeLiYao_16.pdf">[PDF]</a>  
+  <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
+  </li>
+
+  <li>
   <b>Structure Identification in Panel Data Analysis</b> <br>
   Yuan Ke, Jialiang Li and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016  <a href="http://yuan-ke.github.io/files/KeLiZhang_16.pdf">[PDF]</a>  
@@ -81,8 +136,6 @@ author_profile: true
   <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
   </li>
 
-  <li>Tea</li>
-  <li>Milk</li>
   </ol>
 
 
