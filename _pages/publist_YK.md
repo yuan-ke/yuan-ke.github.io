@@ -198,7 +198,7 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 
-<ol style="font-size:20px">
+<ol style="font-size:15px">
 
 <li>
 <b>Feature screening for high-dimensional optimal transport problems with approximate FDP control</b> <br>
