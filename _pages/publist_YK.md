@@ -66,6 +66,9 @@ Wenxuan Zhong, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen and Ping Ma [[arXiv]
 Jingyuan Liu, Ao Sun and Yuan Ke [[arXiv](https://arxiv.org/abs/2108.10595)]
 1. <span style="font-size:0.9em;">**Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity**    
 Murilo da Silva, T.N. Sriram and Yuan Ke
+1. <span style="font-size:0.9em;">**Nonasymptotic theories for tail-robust autocovariance matrix estimation methods**    
+Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
+
 
 
 
@@ -75,5 +78,3 @@ Murilo da Silva, T.N. Sriram and Yuan Ke
 <li>Tea</li>
 <li>Milk</li>
 </ol>
-1. <span style="font-size:0.9em;">**Nonasymptotic theories for tail-robust autocovariance matrix estimation methods**    
-Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
