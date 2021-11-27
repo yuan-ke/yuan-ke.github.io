@@ -127,7 +127,7 @@ author_profile: true
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
   Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
   <i>NeurIPS 2019</i>,   
-  <a href="http://yuan-ke.github.io/files/NIPS2019.pdf">[PDF]</a>
+  <a href="https://arxiv.org/abs/2106.05838">[arXiv]</a>
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Link]</a>  
   </li>
 
@@ -152,7 +152,7 @@ author_profile: true
   <li>
   <b>Nonlinear Regression Using Subset-Based Kernel Principal Components</b> <br>
   Yuan Ke, Degui Li and Qiwei Yao <br>
-  <i>Statistica Sinica</i>, <b>28</b>, 2771-2794, 2018  <a href="http://yuan-ke.github.io/files/KeLiYao_16.pdf">[PDF]</a>  
+  <i>Statistica Sinica</i>, <b>28</b>, 2771-2794, 2018   
   <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
   </li>
 
@@ -161,14 +161,14 @@ author_profile: true
   Yuan Ke, Jialiang Li and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016  <a href="http://yuan-ke.github.io/files/KeLiZhang_16.pdf">[PDF]</a>  
   <a href="http://yuan-ke.github.io/files/KeLiZhang_16_supp.pdf">[Supp]</a>  
-  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
+  <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
   </li>
 
   <li>
   <b>A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine</b> <br>
   Yuan Ke, Bo Fu and Wenyang Zhang <br>
   <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016  <a href="http://yuan-ke.github.io/files/KeFuZhang_16.pdf">[PDF]</a>  
-  <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
+  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
 
   <li>
@@ -199,7 +199,32 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 <ol>
-<li>Apple</li>
-<li>Banana</li>
-<li>Orange</li>
+
+<li>
+<b>Feature screening for high-dimensional optimal transport problems with approximate FDP control</b> <br>
+Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong and Ping Ma    
+</li>
+
+<li>
+<b>Best Subset Selection: Statistical Computing Meets Quantum Computing</b> <br>
+Wenxuan Zhong, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen and Ping Ma    
+<a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
+</li>
+
+<li>
+<b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
+Jingyuan Liu, Ao Sun and Yuan Ke
+<a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
+</li>
+
+<li>
+<b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
+Murilo da Silva, T.N. Sriram and Yuan Ke   
+</li>
+
+<li>
+<b>Nonasymptotic theories for tail-robust autocovariance matrix estimation methods</b> <br>
+Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
+</li>
+
 </ol>
