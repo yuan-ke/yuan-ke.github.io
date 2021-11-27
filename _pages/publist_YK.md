@@ -197,7 +197,7 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 
-
+<p style="font-size:15px">
 <ol>
 
 <li>
@@ -228,3 +228,4 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 </li>
 
 </ol>
+</p>
