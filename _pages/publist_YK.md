@@ -56,6 +56,13 @@ author_profile: true
     *The Annals of Statistics*, **43**, 2676-2705, 2015  [[PDF](http://yuan-ke.github.io/files/LiKeZhang_15.pdf)] &nbsp;  [[Supp](http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf)]  &nbsp; [[DOI](https://projecteuclid.org/euclid.aos/1444222089)]     
 
 
+  <ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  </ol>
+
+
 ## Preprints
 
 1. <span style="font-size:0.9em;">**Feature screening for high-dimensional optimal transport problems with approximate FDP control**    
@@ -76,11 +83,4 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 <li>Apple</li>
 <li>Banana</li>
 <li>Orange</li>
-</ol>
-
-
-<ol reversed>
-<li>Coffee</li>
-<li>Tea</li>
-<li>Milk</li>
 </ol>
