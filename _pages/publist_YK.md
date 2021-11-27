@@ -58,7 +58,7 @@ author_profile: true
 -->
 
 
-  <ol reversed style="font-size:15px">
+  <ol reversed style="font-size:18px">
 
   <li>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
@@ -198,7 +198,7 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 
 
 
-<ol style="font-size:15px">
+<ol style="font-size:17px">
 
 <li>
 <b>Feature screening for high-dimensional optimal transport problems with approximate FDP control</b> <br>
