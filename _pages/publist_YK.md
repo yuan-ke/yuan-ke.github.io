@@ -74,6 +74,13 @@ author_profile: true
   </li>
 
   <li>
+  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
+  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
+  <i>Journal of Business & Economic Statistics</i>, <b>40</b>, 96-110, 2021   
+  <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
+  </li>
+
+  <li>
   <b>Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia</b> <br>
   Jianqing Fan, Yuan Ke and Yuan Liao   <br>
   <i>Journal of Econometrics</i>, <b>222</b>, 269-294, 2021
@@ -108,12 +115,6 @@ author_profile: true
   <a href="https://doi.org/10.1080/01621459.2020.1783274">[DOI]</a>  
   </li>
 
-  <li>
-  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
-  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
-  <i>Journal of Business & Economic Statistics</i>, accepted, 2020   
-  <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
-  </li>
 
   <li>
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
