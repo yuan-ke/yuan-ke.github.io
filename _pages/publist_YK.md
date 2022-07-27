@@ -73,7 +73,7 @@ author_profile: true
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
   Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
   <i>IEEE DSS-2021</i>, 2021   
-  <a href="https://ieeexplore.ieee.org/document/9780972">[Paper]</a>  
+  <a href="https://ieeexplore.ieee.org/document/9780972">[paper]</a>  
   </li>
   </li>
 
