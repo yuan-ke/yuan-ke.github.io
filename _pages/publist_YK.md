@@ -60,17 +60,28 @@ author_profile: true
 
   <ol reversed style="font-size:17px">
 
+
+  <li>
+  <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
+  Xiaochuan Li, Yuan Ke, et al.      <br>
+  <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022   
+  </li>
+  </li>
+
+
   <li>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
   Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
-  <i>IEEE DSS-2021</i>, accepted, 2021   
+  <i>IEEE DSS-2021</i>, 2021   
+  <a href="https://ieeexplore.ieee.org/document/9780972">[Paper]</a>  
+  </li>
   </li>
 
   <li>
   <b>Improving COVID-19 Forecasting by Exogenous Variables</b> <br>
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.     <br>
-  <i>7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)</i>, accepted, 2021   
-  <a href="https://arxiv.org/abs/2107.10397">[arXiv]</a>  
+  <i>7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)</i>, 2021   
+  <a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_24.pdf">[PDF]</a>  
   </li>
 
   <li>
