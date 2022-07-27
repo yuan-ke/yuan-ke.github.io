@@ -62,9 +62,32 @@ author_profile: true
 
 
   <li>
+  <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
+  Jingyuan Liu, Ao Sun and Yuan Ke <br>
+  <i>Journal of Econometrics</i>, accepted, 2022
+  <a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
+  </li>
+
+
+  <li>
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
   Xiaochuan Li, Yuan Ke, et al.      <br>
   <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022   
+  </li>
+
+
+  <li>
+  <b>Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data</b> <br>
+  Changliang Zou, Yuan Ke, and Wenyang Zhang    <br>
+  <i>Journal of the American Statistical Association</i>, <b>117</b>, 693-703, 2022   
+  <a href="https://doi.org/10.1080/01621459.2020.1799813">[DOI]</a>  
+  </li>
+
+  <li>
+  <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
+  Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li   <br>
+  <i>Journal of the American Statistical Association</i>, <b>117</b>, 428-443, 2022   
+  <a href="https://doi.org/10.1080/01621459.2020.1783274">[DOI]</a>  
   </li>
 
 
@@ -112,19 +135,7 @@ author_profile: true
   <a href="https://journal.r-project.org/archive/2021/RJ-2021-023/index.html">[DOI]</a>  
   </li>
 
-  <li>
-  <b>Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data</b> <br>
-  Changliang Zou, Yuan Ke, and Wenyang Zhang    <br>
-  <i>Journal of the American Statistical Association</i>, accepted, 2020   
-  <a href="https://doi.org/10.1080/01621459.2020.1799813">[DOI]</a>  
-  </li>
 
-  <li>
-  <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
-  Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li   <br>
-  <i>Journal of the American Statistical Association</i>, accepted, 2020   
-  <a href="https://doi.org/10.1080/01621459.2020.1783274">[DOI]</a>  
-  </li>
 
 
   <li>
@@ -223,11 +234,7 @@ Wenxuan Zhong, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen and Ping Ma
 <a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
 </li>
 
-<li>
-<b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
-Jingyuan Liu, Ao Sun and Yuan Ke
-<a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
-</li>
+
 
 <li>
 <b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
