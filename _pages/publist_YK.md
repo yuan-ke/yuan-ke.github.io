@@ -66,7 +66,7 @@ author_profile: true
   Xiaochuan Li, Yuan Ke, et al.      <br>
   <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022   
   </li>
-  </li>
+
 
 
   <li>
@@ -75,7 +75,7 @@ author_profile: true
   <i>IEEE DSS-2021</i>, 2021   
   <a href="https://ieeexplore.ieee.org/document/9780972">[paper]</a>  
   </li>
-  </li>
+
 
   <li>
   <b>Improving COVID-19 Forecasting by Exogenous Variables</b> <br>
