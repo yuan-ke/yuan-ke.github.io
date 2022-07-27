@@ -72,7 +72,8 @@ author_profile: true
   <li>
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
   Xiaochuan Li, Yuan Ke, et al.      <br>
-  <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022   
+  <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[paper]</a>   
   </li>
 
 
