@@ -219,14 +219,12 @@ Murilo da Silva, T.N. Sriram and Yuan Ke
 1. <span style="font-size:0.9em;">**Nonasymptotic theories for tail-robust autocovariance matrix estimation methods**    
 Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 <li>
-<b>Best Subset Selection: Statistical Computing Meets Quantum Computing</b> <br>
-Wenxuan Zhong, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen and Ping Ma    
-<a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
+
 </li>
 -->
 
 
-
+<!--
 <ol style="font-size:17px">
 
 <li>
@@ -235,7 +233,9 @@ Cheng Meng, Yuan Ke, Jingyi Zhang, Huimin Cheng, Yongkai Chen, Wenxuan Zhong and
 </li>
 
 
-
+<b>Best Subset Selection: Statistical Computing Meets Quantum Computing</b> <br>
+Wenxuan Zhong, Yuan Ke, Ye Wang, Yongkai Chen, Jinyang Chen and Ping Ma    
+<a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
 
 
 <li>
@@ -249,3 +249,4 @@ Haotian Xu, Yuan Ke, Stéphane Guerrier and Runze Li
 </li>
 
 </ol>
+-->
