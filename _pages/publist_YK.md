@@ -65,7 +65,8 @@ author_profile: true
   <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
   Jingyuan Liu, Ao Sun and Yuan Ke <br>
   <i>Journal of Econometrics</i>, accepted, 2022
-  <a href="https://arxiv.org/abs/2107.08359">[arXiv]</a>  
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
+  <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
   </li>
 
 
