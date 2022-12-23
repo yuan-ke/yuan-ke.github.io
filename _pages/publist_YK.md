@@ -62,11 +62,10 @@ author_profile: true
 
 
   <li>
-  <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
-  Jingyuan Liu, Ao Sun and Yuan Ke <br>
-  <i>Journal of Econometrics</i>, accepted, 2022
-    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
-  <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
+  <b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
+  Murilo da Silva, T.N. Sriram and Yuan Ke <br>
+  <i>Computational Statistics & Data Analysis</i>, accepted, 2022
+    <a href="https://doi.org/10.1016/j.csda.2022.107682">[DOI]</a>  
   </li>
 
   <li>
