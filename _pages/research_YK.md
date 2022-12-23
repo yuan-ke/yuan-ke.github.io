@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 author_profile: true
 
 ---
@@ -14,10 +14,10 @@ author_profile: true
 * <span style="font-size:1.1em;">Non/Semi-parametric modeling</span>           
 * <span style="font-size:1.1em;">Financial Econometrics</span>     
 
-
+<!--
 ## Editorial Service
 * <span style="font-size:1.1em;">2022 - Present: Associate Editor, Statistics: A Jnl of Theor. & Appl. Stat </span>   
-
+-->
 
 ## Funding support
 
