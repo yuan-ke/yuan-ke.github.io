@@ -69,6 +69,14 @@ author_profile: true
   <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
   </li>
 
+  <li>
+  <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
+  Jingyuan Liu, Ao Sun and Yuan Ke <br>
+  <i>Journal of Econometrics</i>, accepted, 2022
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
+  <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
+  </li>
+
 
   <li>
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
