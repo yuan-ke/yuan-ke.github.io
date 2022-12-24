@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ongoing Ph.D. students
 
-* <span style="font-size:1.1em;">Xiaochuan Lis</span>  
+* <span style="font-size:1.1em;">Xiaochuan Li</span>  
 * <span style="font-size:1.1em;">Kaiwen Han</span>            
 * <span style="font-size:1.1em;">Dan Luo</span>      
 * <span style="font-size:1.1em;">Hyunseok Seung (co-advised with Dr. Jaewoo Lee)</span>           
