@@ -10,8 +10,14 @@ main:
   #- title: "Talks"
     #url: /talks/
 
+  - title: "Students"
+    url: /students/
+
   - title: "Teaching"
     url: /teaching/
+
+
+
 
   #- title: "Students"
     #url: /students/
