@@ -21,7 +21,7 @@ author_profile: true
 
 * <span style="font-size:1.1em;">Xiao Di (2022, co-advised with Dr. Jeongyoun Ahn)
 
-Thesis Title: "Learning Structure Changes in High-dimensional and Heavy-tailed Time Series"</span>   
+Thesis Title: "Learning Structure Changes in High-dimensional and Heavy-tailed Time Series_**"</span>   
 
 
 <!--
