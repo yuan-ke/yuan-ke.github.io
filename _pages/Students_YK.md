@@ -1,15 +1,32 @@
 ---
 permalink: /students/
-title: "Students"
+title: ""
 author_profile: true
 
 ---
 
-<span style="font-size:1.2em;"> I have been working on statistical methodological research for massive datasets inspired by many areas. My research philosophy is to develop innovative statistical thinking and serve the data dependent society with effective and efficient data analysis tools.  My ongoing research interests are as follows.</span>
+## Ongoing Ph.D. students
+
+* <span style="font-size:1.1em;">Xiaochuan Lis</span>  
+* <span style="font-size:1.1em;">Kaiwen Han</span>            
+* <span style="font-size:1.1em;">Dan Luo</span>      
+* <span style="font-size:1.1em;">Hyunseok Seung (co-advised with Dr. Jaewoo Lee)</span>           
+* <span style="font-size:1.1em;">Tianyi Zhang</span>     
+* <span style="font-size:1.1em;">Cong Cheng</span>     
+* <span style="font-size:1.1em;">Bingnan Li</span>   
 
 
-* <span style="font-size:1.2em;">Statistical machine learning</span>         
-* <span style="font-size:1.2em;">Robust statistical methods</span>         
-* <span style="font-size:1.2em;">Time series analysis</span>      
-* <span style="font-size:1.2em;">Non/Semi-parametric modeling</span>           
-* <span style="font-size:1.2em;">Financial Econometrics</span>     
+
+## Graduated Ph.D. students
+
+* <span style="font-size:1.1em;">Xiao Di (2022, co-advised with Dr. Jaewoo Lee)
+Thesis Title: Learning Structure Changes in High-dimensional and Heavy-tailed Time Series</span>   
+* <span style="font-size:1.1em;">Xiaochuan Lis</span>  
+
+<!--
+## Editorial Service
+* <span style="font-size:1.1em;">2022 - Present: Associate Editor, Statistics: A Jnl of Theor. & Appl. Stat </span>   
+-->
+
+## Graduated Master students
+* <span style="font-size:1.1em;">NSF DMS 2210468 (Role: PI)</span>    
