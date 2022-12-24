@@ -19,8 +19,8 @@ author_profile: true
 
 ## Graduated Ph.D. students
 
-* <span style="font-size:1.1em;">Xiao Di (2022, co-advised with Dr. Jaewoo Lee)
-Thesis Title: Learning Structure Changes in High-dimensional and Heavy-tailed Time Series</span>   
+* <span style="font-size:1.1em;">Xiao Di (2022, co-advised with Dr. Jeongyoun Ahn)
+Thesis Title: "Learning Structure Changes in High-dimensional and Heavy-tailed Time Series"</span>   
 
 
 <!--
