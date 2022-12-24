@@ -32,7 +32,7 @@ author_profile: true
 ## Graduated Master students
 
 * <span style="font-size:1.0em;">Nikhik Ranjan (2022)  </span>
-<!-- **Thesis title**: _Combining Stacked Ensembling with Deep Neural Networks for Stock Predictions_ </span> -->
-
 * <span style="font-size:1.0em;">Bingnan Li (2022)   </span>
+
+<!-- **Thesis title**: _Combining Stacked Ensembling with Deep Neural Networks for Stock Predictions_ </span> -->
 <!-- **Thesis title**: _Real-time Blood Pressure Estimation with Contact-free BedDot Monitor System_</span> -->
