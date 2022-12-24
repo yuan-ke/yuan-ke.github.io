@@ -21,7 +21,7 @@ author_profile: true
 
 * <span style="font-size:1.1em;">Xiao Di (2022, co-advised with Dr. Jaewoo Lee)
 Thesis Title: Learning Structure Changes in High-dimensional and Heavy-tailed Time Series</span>   
-* <span style="font-size:1.1em;">Xiaochuan Lis</span>  
+
 
 <!--
 ## Editorial Service
@@ -29,4 +29,4 @@ Thesis Title: Learning Structure Changes in High-dimensional and Heavy-tailed Ti
 -->
 
 ## Graduated Master students
-* <span style="font-size:1.1em;">NSF DMS 2210468 (Role: PI)</span>    
+* <span style="font-size:1.1em;">TBA</span>    
