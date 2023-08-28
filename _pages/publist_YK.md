@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 
 ---
-## Publications
+## Selected Publications
 <!--
 1. <span style="font-size:0.9em;">**Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information**    
   Yogesh Chaudhari, ..., Yuan Ke, et al.        
@@ -62,26 +62,11 @@ author_profile: true
 
 
   <li>
-  <b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
-  Murilo da Silva, T.N. Sriram and Yuan Ke <br>
-  <i>Computational Statistics & Data Analysis</i>, accepted, 2022
-    <a href="https://doi.org/10.1016/j.csda.2022.107682">[DOI]</a>  
-  </li>
-
-  <li>
   <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
   Jingyuan Liu, Ao Sun and Yuan Ke <br>
   <i>Journal of Econometrics</i>, accepted, 2022
     <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
   <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
-  </li>
-
-
-  <li>
-  <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
-  Xiaochuan Li, Yuan Ke, et al.      <br>
-  <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[paper]</a>   
   </li>
 
 
@@ -100,29 +85,6 @@ author_profile: true
   </li>
 
 
-
-  <li>
-  <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
-  Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
-  <i>IEEE DSS-2021</i>, 2021   
-  <a href="https://ieeexplore.ieee.org/document/9780972">[paper]</a>  
-  </li>
-
-
-  <li>
-  <b>Improving COVID-19 Forecasting by Exogenous Variables</b> <br>
-  Mohammadhossein Toutiaee, ..., Yuan Ke, et al.     <br>
-  <i>7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)</i>, 2021   
-  <a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_24.pdf">[PDF]</a>  
-  </li>
-
-  <li>
-  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
-  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
-  <i>Journal of Business & Economic Statistics</i>, <b>40</b>, 96-110, 2021   
-  <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
-  </li>
-
   <li>
   <b>Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia</b> <br>
   Jianqing Fan, Yuan Ke and Yuan Liao   <br>
@@ -137,15 +99,6 @@ author_profile: true
   <a href="http://jmlr.org/papers/v22/19-1018.html">[DOI]</a>  
   </li>
 
-  <li>
-  <b>FarmTest: An R package for factor-adjusted robust multiple testing</b> <br>
-  Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou       <br>
-  <i>The R Journal</i>, <b>12</b>, 372-387, 2020
-  <a href="https://journal.r-project.org/archive/2021/RJ-2021-023/index.html">[DOI]</a>  
-  </li>
-
-
-
 
   <li>
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
@@ -153,14 +106,6 @@ author_profile: true
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
   <a href="http://yuan-ke.github.io/files/FARMselect.pdf">[PDF]</a>
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
-  </li>
-
-  <li>
-  <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
-  Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
-  <i>NeurIPS 2019</i>,   
-  <a href="https://arxiv.org/abs/2106.05838">[arXiv]</a>
-  <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Link]</a>  
   </li>
 
   <li>
@@ -181,12 +126,6 @@ author_profile: true
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
 
-  <li>
-  <b>Nonlinear Regression Using Subset-Based Kernel Principal Components</b> <br>
-  Yuan Ke, Degui Li and Qiwei Yao <br>
-  <i>Statistica Sinica</i>, <b>28</b>, 2771-2794, 2018   
-  <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
-  </li>
 
   <li>
   <b>Structure Identification in Panel Data Analysis</b> <br>
@@ -196,12 +135,6 @@ author_profile: true
   <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
   </li>
 
-  <li>
-  <b>A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine</b> <br>
-  Yuan Ke, Bo Fu and Wenyang Zhang <br>
-  <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016  <a href="http://yuan-ke.github.io/files/KeFuZhang_16.pdf">[PDF]</a>  
-  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
-  </li>
 
   <li>
   <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
