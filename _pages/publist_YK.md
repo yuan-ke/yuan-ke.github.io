@@ -58,7 +58,7 @@ author_profile: true
 -->
 
 
-  <ol reversed style="font-size:17px">
+  <ol style="font-size:17px">
 
 
   <li>
