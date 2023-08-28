@@ -1,5 +1,5 @@
 ---
-permalink: /publication/
+permalink: /publication_full/
 title: ""
 author_profile: true
 
