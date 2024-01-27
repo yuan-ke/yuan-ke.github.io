@@ -11,11 +11,11 @@ redirect_from:
 <span style="font-size:1.2em;"> My name is Yuan Ke. I am an Associate Professor in [Department of Statistics](https://www.stat.uga.edu/) at the [University of Georgia](https://www.uga.edu/) started in 2018. Before I join UGA, I
 was the Bruce Lindsay Visiting Assistant Professor in the Department of Statistics at Pennsylvania State University, hosted by Professor [Runze Li](http://personal.psu.edu/ril4/). Before that, I was a Postdoctoral Research Associate in the Department of ORFE at Princeton University, hosted by Professor [Jianqing Fan](https://orfe.princeton.edu/~jqfan/). I received my Ph.D. degree in Mathematics from the University of York under the supervision of Professor [Wenyang Zhang](http://www-users.york.ac.uk/~wz645/). I received an MSc degree in Statistics from the London School of Economics and a BSc degree in Physics from Beijing Normal University.</span>
 
-
+<!--
 <span style="font-size:1.2em;">
 I am glad to announce that a workshop focused on "Factor Modelling for Complex Time Series Data and Tensors" will take place in University of Bristol on December 14-15, 2023. This workshop is co-organized by [Dr. Haeran Cho](https://sites.google.com/view/haeran-cho/home) and I. Please check this [webpage](https://sites.google.com/view/haeran-cho/workshop-2023) for the schedule of the workshop. We sincerely appreciate Heilbronn Institute for Mathematical Research, London Mathematical Society, and University of Bristol for their generous sponsorship of this workshop!
 </span>
-
+-->
 ## Contact information
 
 * <span style="font-size:1.2em;">**Address**: 404 Brooks Hall, Athens, GA 30602</span>
