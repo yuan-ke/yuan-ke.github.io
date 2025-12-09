@@ -242,7 +242,7 @@ author_profile: true
 
   <li>
   <b>FarmTest: An R package for Factor-adjusted Robust Multiple Testing</b> <br>
-  Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou       <br>
+  Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-Xin Zhou       <br>
   <i>The R Journal</i>, <b>12</b>, 389-402, 2021
   <a href="https://journal.r-project.org/archive/2021/RJ-2021-023/index.html">[DOI]</a>  
   </li>
@@ -271,14 +271,14 @@ author_profile: true
 
   <li>
   <b>User-friendly Covariance Estimation for Heavy-tailed Distributions</b> <br>
-  Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun, and Wen-xin Zhou  <br>
+  Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun, and Wen-Xin Zhou  <br>
   <i>Statistical Science</i>, <b>34</b>, 454-471, 2019  
   <a href="http://dx.doi.org/10.1214/19-STS711">[DOI]</a>  
   </li>
 
   <li>
   <b>FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control</b> <br>
-  Jianqing Fan, Yuan Ke, Qiang Sun, and Wen-xin Zhou  <br>
+  Jianqing Fan, Yuan Ke, Qiang Sun, and Wen-Xin Zhou  <br>
   <i>Journal of the American Statistical Association</i>, <b>114</b>, 1880-1893, 2019    
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
