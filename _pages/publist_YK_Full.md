@@ -73,7 +73,7 @@ author_profile: true
 
   <li>
   <b>Robust COVID-19 Mortality Risk Assessment: Validation of a Two-Step Algorithm From the National COVID Cohort Collaborative</b> <br>
-  Bingnan Li, Yuan Ke, Xianyan Chen , Leonardo Martinez, and Ye Shen<br>
+  Bingnan Li, Yuan Ke, Xianyan Chen, Leonardo Martinez, and Ye Shen<br>
   <i>The Journal of Infectious Diseases</i>, jiaf393, 2025   
   <a href="https://doi.org/10.1093/infdis/jiaf393">[DOI]</a>  
   </li>
