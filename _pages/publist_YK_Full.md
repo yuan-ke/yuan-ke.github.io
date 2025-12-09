@@ -61,6 +61,8 @@ author_profile: true
   <ol reversed style="font-size:17px">
 
 
+
+
   <li>
   <b>Hypothesis Test in High Dimensional Multi-response Linear Models</b> <br>
   Yuan Ke, Rongmao Zhang, Wenyang Zhang and Changliang Zou    <br>
@@ -68,6 +70,13 @@ author_profile: true
   <a href="https://doi.org/10.1016/j.csda.2025.108303">[DOI]</a>  
   </li>
 
+
+  <li>
+  <b>Robust COVID-19 Mortality Risk Assessment: Validation of a Two-Step Algorithm From the National COVID Cohort Collaborative</b> <br>
+  Bingnan Li, YUan Ke, et al.    <br>
+  <i>The Journal of Infectious Diseases</i>, jiaf393, 2025   
+  <a href="https://doi.org/10.1093/infdis/jiaf393">[DOI]</a>  
+  </li>
 
 
 
