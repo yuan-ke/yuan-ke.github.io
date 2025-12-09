@@ -154,7 +154,6 @@ author_profile: true
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
   Jianqing Fan, Yuan Ke and Kaizheng Wang   <br>
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
-  <a href="http://yuan-ke.github.io/files/FARMselect.pdf">[PDF]</a>
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
 
@@ -162,7 +161,6 @@ author_profile: true
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
   Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
   <i>NeurIPS 2019</i>,   
-  <a href="https://arxiv.org/abs/2106.05838">[arXiv]</a>
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Link]</a>  
   </li>
 
@@ -170,17 +168,13 @@ author_profile: true
   <b>User-friendly covariance estimation for heavy-tailed distributions</b> <br>
   Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou  <br>
   <i>Statistical Science</i>, <b>34</b>, 454-471, 2019  
-  <a href="http://yuan-ke.github.io/files/RobustCov.pdf">[PDF]</a>
-  <a href="http://yuan-ke.github.io/files/RobustCov_supp.pdf">[Supp]</a>   
   <a href="http://dx.doi.org/10.1214/19-STS711">[DOI]</a>  
   </li>
 
   <li>
   <b>FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control</b> <br>
   Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou  <br>
-  <i>Journal of the American Statistical Association</i>, <b>114</b>, 1880-1893, 2019  
-  <a href="http://yuan-ke.github.io/files/FarmTest.pdf">[PDF]</a>
-  <a href="http://yuan-ke.github.io/files/FarmTest_supp.pdf">[Supp]</a>   
+  <i>Journal of the American Statistical Association</i>, <b>114</b>, 1880-1893, 2019    
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
 
@@ -194,15 +188,14 @@ author_profile: true
   <li>
   <b>Structure Identification in Panel Data Analysis</b> <br>
   Yuan Ke, Jialiang Li and Wenyang Zhang <br>
-  <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016  <a href="http://yuan-ke.github.io/files/KeLiZhang_16.pdf">[PDF]</a>  
-  <a href="http://yuan-ke.github.io/files/KeLiZhang_16_supp.pdf">[Supp]</a>  
+  <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016    
   <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
   </li>
 
   <li>
   <b>A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine</b> <br>
   Yuan Ke, Bo Fu and Wenyang Zhang <br>
-  <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016  <a href="http://yuan-ke.github.io/files/KeFuZhang_16.pdf">[PDF]</a>  
+  <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016    
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
 
