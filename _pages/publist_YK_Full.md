@@ -62,6 +62,16 @@ author_profile: true
 
 
   <li>
+  <b>Hypothesis Test in High Dimensional Multi-response Linear Models</b> <br>
+  Yuan Ke, Rongmao Zhang, Wenyang Zhang and Changliang Zou    <br>
+  <i>Computational Statistics & Data Analysis</i>, <b>215</b>, 108303, 2025   
+  <a href="https://doi.org/10.1016/j.csda.2025.108303">[DOI]</a>  
+  </li>
+
+
+
+
+  <li>
   <b>Large Precision Matrix Estimation with Unknown Group Structure</b> <br>
   Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
   <i>Journal of the American Statistical Association</i>, accepted, 2025   
