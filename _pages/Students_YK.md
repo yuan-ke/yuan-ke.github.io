@@ -27,7 +27,7 @@ author_profile: true
 **Thesis title**: _On Robust Statistical Estimation for Complicated Time Series_  
 **First position**: Astellas Pharma</span>
 
-* <span style="font-size:1.0em;">Kaiwen Ha (2023)  
+* <span style="font-size:1.0em;">Kaiwen Han (2023)  
 **Thesis title**: _Robust Autocovariance Change Point Analysis for Heavy-tailed Time Series_  
 **First position**: Wells Fargo</span> 
 
