@@ -142,7 +142,7 @@ author_profile: true
 
 
   <li>
-  <b>BedDot: Engagement-free and Contactless Bed Occupancy and Vital Signs Monitoring</b> <br>
+  <b>Engagement-free and Contactless Bed Occupancy and Vital Signs Monitoring</b> <br>
   Yingjian Song, ...,  Yuan Ke, et al.    <br>
   <i>IEEE Internet of Things Journal</i>, <b>11</b>, 7935-7947, 2023   
   <a href="https://doi.org/10.1109/JIOT.2023.3316674">[DOI]</a>  
