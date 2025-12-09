@@ -116,7 +116,7 @@ author_profile: true
 
 
   <li>
-  <b>Tensor factor adjustment for image classification with pervasive noises</b> <br>
+  <b>Tensor Factor Adjustment for Image Classification with Pervasive Noises</b> <br>
   Xiaochuan Li, Bingnan Li, Wenzhan Song, and Yuan Ke <br>
   <i>Stat</i>, <b>13</b>, e705, 2024
     <a href=" https://doi.org/10.1002/sta4.705">[DOI]</a>   
