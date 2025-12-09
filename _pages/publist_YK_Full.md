@@ -109,7 +109,7 @@ author_profile: true
   <b>Real-Time Continuous Blood Pressure Estimation with Contact-Free Bedseismogram</b> <br>
   Yingjian Song, ..., Yuan Ke, et al.      <br>
   <i>2024 IEEE International Conference on Communications</i>, 2024  
-    <a href="10.1109/ICC51166.2024.10622995">[DOI]</a>   
+    <a href="https://doi.org/10.1109/ICC51166.2024.10622995">[DOI]</a>   
   </li>
 
 
