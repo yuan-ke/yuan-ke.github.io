@@ -92,7 +92,7 @@ author_profile: true
   <li>
   <b>Computational Efficient General Convolutional Layer Selection for Transfer Learning</b> <br>
   Di Xiao, Bingnan Li, Wenzhan Song and Yuan Ke <br>
-  <i>Stat</i>, <b>14</b>, e70037, 2024
+  <i>Stat</i>, <b>14</b>, e70037, 2025
     <a href="  https://doi.org/10.1002/sta4.70037">[DOI]</a>   
   </li>
 
