@@ -243,7 +243,7 @@ author_profile: true
   <li>
   <b>FarmTest: An R package for factor-adjusted robust multiple testing</b> <br>
   Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou       <br>
-  <i>The R Journal</i>, <b>12</b>, 372-387, 2020
+  <i>The R Journal</i>, <b>12</b>, 389-402, 2021
   <a href="https://journal.r-project.org/archive/2021/RJ-2021-023/index.html">[DOI]</a>  
   </li>
 
