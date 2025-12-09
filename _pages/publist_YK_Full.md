@@ -78,7 +78,7 @@ author_profile: true
   </li>
 
 
-
+  [//]: <span style="font-size:1.1em;"> <b>2022</b></span>
 
   <li>
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
@@ -103,6 +103,8 @@ author_profile: true
   </li>
 
 
+
+  [//]: <span style="font-size:1.1em;"> <b>2021</b></span>
 
   <li>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
@@ -140,6 +142,9 @@ author_profile: true
   <a href="http://jmlr.org/papers/v22/19-1018.html">[DOI]</a>  
   </li>
 
+
+  <span style="font-size:1.1em;"> <b>2020</b></span>
+
   <li>
   <b>FarmTest: An R package for factor-adjusted robust multiple testing</b> <br>
   Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou       <br>
@@ -156,6 +161,8 @@ author_profile: true
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
+
+  <span style="font-size:1.1em;"> <b>2019</b></span>
 
   <li>
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
@@ -187,6 +194,8 @@ author_profile: true
   <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
   </li>
 
+   <span style="font-size:1.1em;"> <b>2016</b></span>
+
   <li>
   <b>Structure Identification in Panel Data Analysis</b> <br>
   Yuan Ke, Jialiang Li and Wenyang Zhang <br>
@@ -200,6 +209,8 @@ author_profile: true
   <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016    
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
+
+  <span style="font-size:1.1em;"> <b>2015</b></span>
 
   <li>
   <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
