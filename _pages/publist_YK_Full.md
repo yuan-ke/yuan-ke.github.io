@@ -169,7 +169,7 @@ author_profile: true
   </li>
 
   <li>
-  <b>Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data</b> <br>
+  <b>Estimation of Low Rank High-Dimensional Multivariate Linear Models for Multi-response Data</b> <br>
   Changliang Zou, Yuan Ke, and Wenyang Zhang    <br>
   <i>Journal of the American Statistical Association</i>, <b>117</b>, 693-703, 2022   
   <a href="https://doi.org/10.1080/01621459.2020.1799813">[DOI]</a>  
@@ -180,7 +180,7 @@ author_profile: true
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
   Xiaochuan Li, Yuan Ke, et al.      <br>
   <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[Paper]</a>   
+    <a href=" https://doi.org/10.1007/978-3-031-12053-4_49">[DOI]</a>   
   </li>
 
 
