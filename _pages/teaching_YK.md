@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-## Teaching at UGA
+## Courses taught at UGA
  
 * <span style="font-size:1.1em;">STAT 4/6250 Applied Multivariate Analysis and Statistical Learning </span>  
 * <span style="font-size:1.1em;">STAT 4/6290 Nonparametric Methods </span>     
@@ -14,6 +14,6 @@ author_profile: true
 * <span style="font-size:1.1em;">STAT 8210 Multivariate: Theory and Methods</span> 
 * <span style="font-size:1.1em;">STAT 8900 Special Topics</span>         
 
-## Teaching at PSU
+## Courses taught at PSU
 
 * <span style="font-size:1.1em;">STAT 414 Introduction to Probability Theory </span>  
