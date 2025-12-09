@@ -65,7 +65,7 @@ author_profile: true
 
   <li>
   <b>Hypothesis Test in High Dimensional Multi-response Linear Models</b> <br>
-  Yuan Ke, Rongmao Zhang, Wenyang Zhang and Changliang Zou    <br>
+  Yuan Ke, Rongmao Zhang, Wenyang Zhang, and Changliang Zou    <br>
   <i>Computational Statistics & Data Analysis</i>, <b>215</b>, 108303, 2026   
   <a href="https://doi.org/10.1016/j.csda.2025.108303">[DOI]</a>  
   </li>
@@ -91,7 +91,7 @@ author_profile: true
 
   <li>
   <b>Computational Efficient General Convolutional Layer Selection for Transfer Learning</b> <br>
-  Di Xiao, Bingnan Li, Wenzhan Song and Yuan Ke <br>
+  Di Xiao, Bingnan Li, Wenzhan Song, and Yuan Ke <br>
   <i>Stat</i>, <b>14</b>, e70037, 2025
     <a href="  https://doi.org/10.1002/sta4.70037">[DOI]</a>   
   </li>
@@ -117,7 +117,7 @@ author_profile: true
 
   <li>
   <b>Tensor factor adjustment for image classification with pervasive noises</b> <br>
-  Xiaochuan Li, Bingnan Li, Wenzhan Song and Yuan Ke <br>
+  Xiaochuan Li, Bingnan Li, Wenzhan Song, and Yuan Ke <br>
   <i>Stat</i>, <b>13</b>, e705, 2024
     <a href=" https://doi.org/10.1002/sta4.705">[DOI]</a>   
   </li>
@@ -126,7 +126,7 @@ author_profile: true
 
   <li>
   <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
-  Jingyuan Liu, Ao Sun and Yuan Ke <br>
+  Jingyuan Liu, Ao Sun, and Yuan Ke <br>
   <i>Journal of Econometrics</i>, <b>239</b>, 105331, 2024
     <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>   
   </li>
@@ -151,7 +151,7 @@ author_profile: true
 
   <li>
   <b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
-  Murilo da Silva, T.N. Sriram and Yuan Ke <br>
+  Murilo da Silva, T.N. Sriram, and Yuan Ke <br>
   <i>Computational Statistics & Data Analysis</i>, <b>180</b>, 107682, 2023
     <a href="https://doi.org/10.1016/j.csda.2022.107682">[DOI]</a>  
   </li>
@@ -186,7 +186,7 @@ author_profile: true
 
   <li>
   <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
-  Wanjun Liu, Yuan Ke, Jingyuan Liu and Runze Li   <br>
+  Wanjun Liu, Yuan Ke, Jingyuan Liu, and Runze Li   <br>
   <i>Journal of the American Statistical Association</i>, <b>117</b>, 428-443, 2022   
   <a href="https://doi.org/10.1080/01621459.2020.1783274">[DOI]</a>  
   </li>
@@ -199,7 +199,7 @@ author_profile: true
 
   <li>
   <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
-  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
+  Yuan Ke, Heng Lian, and Wenyang Zhang  <br>
   <i>Journal of Business & Economic Statistics</i>, <b>40</b>, 96-110, 2021   
   <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
   </li>
@@ -223,7 +223,7 @@ author_profile: true
 
   <li>
   <b>Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia</b> <br>
-  Jianqing Fan, Yuan Ke and Yuan Liao   <br>
+  Jianqing Fan, Yuan Ke, and Yuan Liao   <br>
   <i>Journal of Econometrics</i>, <b>222</b>, 269-294, 2021
   <a href="https://doi.org/10.1016/j.jeconom.2020.07.002">[DOI]</a>  
   </li>
@@ -252,7 +252,7 @@ author_profile: true
 
   <li>
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
-  Jianqing Fan, Yuan Ke and Kaizheng Wang   <br>
+  Jianqing Fan, Yuan Ke, and Kaizheng Wang   <br>
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
@@ -264,21 +264,21 @@ author_profile: true
 
   <li>
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
-  Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
+  Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong, and Ping Ma  <br>
   <i>NeurIPS 2019</i>,   
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Paper]</a>  
   </li>
 
   <li>
   <b>User-friendly covariance estimation for heavy-tailed distributions</b> <br>
-  Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou  <br>
+  Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun, and Wen-xin Zhou  <br>
   <i>Statistical Science</i>, <b>34</b>, 454-471, 2019  
   <a href="http://dx.doi.org/10.1214/19-STS711">[DOI]</a>  
   </li>
 
   <li>
   <b>FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control</b> <br>
-  Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou  <br>
+  Jianqing Fan, Yuan Ke, Qiang Sun, and Wen-xin Zhou  <br>
   <i>Journal of the American Statistical Association</i>, <b>114</b>, 1880-1893, 2019    
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
@@ -290,7 +290,7 @@ author_profile: true
 
   <li>
   <b>Nonlinear Regression Using Subset-Based Kernel Principal Components</b> <br>
-  Yuan Ke, Degui Li and Qiwei Yao <br>
+  Yuan Ke, Degui Li, and Qiwei Yao <br>
   <i>Statistica Sinica</i>, <b>28</b>, 2771-2794, 2018   
   <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
   </li>
@@ -302,14 +302,14 @@ author_profile: true
 
   <li>
   <b>Structure Identification in Panel Data Analysis</b> <br>
-  Yuan Ke, Jialiang Li and Wenyang Zhang <br>
+  Yuan Ke, Jialiang Li, and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016    
   <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
   </li>
 
   <li>
   <b>A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine</b> <br>
-  Yuan Ke, Bo Fu and Wenyang Zhang <br>
+  Yuan Ke, Bo Fu, and Wenyang Zhang <br>
   <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016    
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
@@ -321,7 +321,7 @@ author_profile: true
 
   <li>
   <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
-  Degui Li, Yuan Ke and Wenyang Zhang <br>
+  Degui Li, Yuan Ke, and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>43</b>, 2676-2705, 2015  
   <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
   </li>
