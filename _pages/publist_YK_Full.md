@@ -198,7 +198,7 @@ author_profile: true
 
 
   <li>
-  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
+  <b>High-Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
   Yuan Ke, Heng Lian, and Wenyang Zhang  <br>
   <i>Journal of Business & Economic Statistics</i>, <b>40</b>, 96-110, 2021   
   <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
