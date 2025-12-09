@@ -66,7 +66,7 @@ author_profile: true
   <li>
   <b>Hypothesis Test in High Dimensional Multi-response Linear Models</b> <br>
   Yuan Ke, Rongmao Zhang, Wenyang Zhang and Changliang Zou    <br>
-  <i>Computational Statistics & Data Analysis</i>, <b>215</b>, 108303, 2025   
+  <i>Computational Statistics & Data Analysis</i>, <b>215</b>, 108303, 2026   
   <a href="https://doi.org/10.1016/j.csda.2025.108303">[DOI]</a>  
   </li>
 
