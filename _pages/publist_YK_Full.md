@@ -64,8 +64,7 @@ author_profile: true
   <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
   Jingyuan Liu, Ao Sun and Yuan Ke <br>
   <i>Journal of Econometrics</i>, <b>239</b>, 105331, 2024
-    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
-  <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>   
   </li>
 
 
@@ -86,7 +85,7 @@ author_profile: true
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
   Xiaochuan Li, Yuan Ke, et al.      <br>
   <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[paper]</a>   
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[Paper]</a>   
   </li>
 
 
@@ -113,7 +112,7 @@ author_profile: true
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
   Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
   <i>IEEE DSS-2021</i>, 2021   
-  <a href="https://ieeexplore.ieee.org/document/9780972">[paper]</a>  
+  <a href="https://ieeexplore.ieee.org/document/9780972">[Paper]</a>  
   </li>
 
 
@@ -121,7 +120,7 @@ author_profile: true
   <b>Improving COVID-19 Forecasting by Exogenous Variables</b> <br>
   Mohammadhossein Toutiaee, ..., Yuan Ke, et al.     <br>
   <i>7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)</i>, 2021   
-  <a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_24.pdf">[PDF]</a>  
+  <a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_24.pdf">[Paper]</a>  
   </li>
 
   <li>
@@ -176,7 +175,7 @@ author_profile: true
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
   Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
   <i>NeurIPS 2019</i>,   
-  <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Link]</a>  
+  <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Paper]</a>  
   </li>
 
   <li>
