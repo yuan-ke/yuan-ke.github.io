@@ -60,6 +60,51 @@ author_profile: true
 
   <ol reversed style="font-size:17px">
 
+
+  <li>
+  <b>Large Precision Matrix Estimation with Unknown Group Structure</b> <br>
+  Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
+  <i>Journal of the American Statistical Association</i>, accepted, 2025   
+  <a href="https://doi.org/10.1080/01621459.2024.2442092">[DOI]</a>  
+  </li>
+
+
+
+  <li>
+  <b>Computational Efficient General Convolutional Layer Selection for Transfer Learning</b> <br>
+  Di Xiao, Bingnan Li, Wenzhan Song and Yuan Ke <br>
+  <i>Stat</i>, <b>14</b>, e70037, 2024
+    <a href="  https://doi.org/10.1002/sta4.70037">[DOI]</a>   
+  </li>
+
+
+  <li>
+  <b>Consistent Sampling with Smoothed Quantum Walk</b> <br>
+  Tianyi Zhang and Yuan Ke.      <br>
+  <i>2024 IEEE International Conference on Quantum Computing and Engineering (IEEE QCE)</i>, 2024  
+    <a href="https://doi.org/10.1109/QCE60285.2024.00013">[DOI]</a>   
+  </li>
+
+
+  <li>
+  <b>Real-Time Continuous Blood Pressure Estimation with Contact-Free Bedseismogram</b> <br>
+  Yingjian Song, ..., Yuan Ke, et al.      <br>
+  <i>2024 IEEE International Conference on Communications</i>, 2024  
+    <a href="10.1109/ICC51166.2024.10622995">[DOI]</a>   
+  </li>
+
+
+
+
+  <li>
+  <b>Tensor factor adjustment for image classification with pervasive noises</b> <br>
+  Xiaochuan Li, Bingnan Li, Wenzhan Song and Yuan Ke <br>
+  <i>Stat</i>, <b>13</b>, e705, 2024
+    <a href=" https://doi.org/10.1002/sta4.705">[DOI]</a>   
+  </li>
+
+
+
   <li>
   <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
   Jingyuan Liu, Ao Sun and Yuan Ke <br>
@@ -70,9 +115,17 @@ author_profile: true
 
 
   <li>
+  <b>L_0 Optimization with Robust Non-Oracular Quantum Search</b> <br>
+  Tianyi Zhang and  Yuan Ke.    <br>
+  <i>Technologies</i>, <b>11</b>(5), 148, 2023   
+  <a href="https://doi.org/10.3390/technologies11050148">[DOI]</a>  
+  </li>
+
+
+  <li>
   <b>BedDot: Engagement-free and Contactless Bed Occupancy and Vital Signs Monitoring</b> <br>
   Yingjian Song, ...,  Yuan Ke, et al.    <br>
-  <i>IEEE Internet of Things Journal</i>, <b>11</b>, 148, 2022   
+  <i>IEEE Internet of Things Journal</i>, <b>11</b>, 7935-7947, 2023   
   <a href="https://doi.org/10.1109/JIOT.2023.3316674">[DOI]</a>  
   </li>
 
