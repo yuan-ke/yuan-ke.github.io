@@ -264,7 +264,7 @@ author_profile: true
 
   <li>
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
-  Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong, and Ping Ma  <br>
+  Cheng Meng, Yuan Ke, et al.  <br>
   <i>NeurIPS 2019</i>,   
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Paper]</a>  
   </li>
