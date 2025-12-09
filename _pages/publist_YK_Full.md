@@ -178,6 +178,8 @@ author_profile: true
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
 
+   <span style="font-size:1.1em;"> <b>2018</b></span>
+
   <li>
   <b>Nonlinear Regression Using Subset-Based Kernel Principal Components</b> <br>
   Yuan Ke, Degui Li and Qiwei Yao <br>
