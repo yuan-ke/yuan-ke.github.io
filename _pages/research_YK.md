@@ -22,7 +22,12 @@ author_profile: true
 ## Grants
 <span style="font-size:1.2em;"> I sincerely acknowledge the supports from NSF and NIH on my research!</span>
 
+<span style="font-size:1.2em;"> Current funding:</span>
+
+* <span style="font-size:1.1em;">NSF-SNSF Program (NSF-2514399, 2025-2028, PI) </span> 
 * <span style="font-size:1.1em;">NSF Computational and Data-Enabled Science and Engineering in Mathematical and Statistical Sciences (CDS&E-MSS) Program (NSF-2324389, 2023-2026, PI) </span>  
 * <span style="font-size:1.1em;">NIH Research Project Grant Program (R01) (NIH-1R01HL172291, 2023-2027, Co-PI; PI: Wenzhan Song) </span>  
 * <span style="font-size:1.1em;">NSF Methodology, Measurement, and Statistics (MMS) Program (NSF-2243044, 2023-2026, Co-PI; PI: Shiyu Wang) </span>  
+
+<span style="font-size:1.2em;"> Completed funding:</span>
 * <span style="font-size:1.1em;">NSF Statistics Program (NSF-2210468, 2022-2025, PI) </span>  
