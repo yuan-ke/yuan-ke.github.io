@@ -60,21 +60,24 @@ author_profile: true
 
   <ol reversed style="font-size:17px">
 
+  <li>
+  <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
+  Jingyuan Liu, Ao Sun and Yuan Ke <br>
+  <i>Journal of Econometrics</i>, <b>239</b>, 105331, 2024
+    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
+  <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
+  </li>
+
+
 
   <li>
   <b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
   Murilo da Silva, T.N. Sriram and Yuan Ke <br>
-  <i>Computational Statistics & Data Analysis</i>, accepted, 2022
+  <i>Computational Statistics & Data Analysis</i>, <b>180</b>, 107682, 2023
     <a href="https://doi.org/10.1016/j.csda.2022.107682">[DOI]</a>  
   </li>
 
-  <li>
-  <b>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</b> <br>
-  Jingyuan Liu, Ao Sun and Yuan Ke <br>
-  <i>Journal of Econometrics</i>, accepted, 2022
-    <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001567">[DOI]</a>  
-  <a href="https://arxiv.org/abs/2108.10595">[arXiv]</a>  
-  </li>
+
 
 
   <li>
@@ -151,24 +154,20 @@ author_profile: true
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
   Jianqing Fan, Yuan Ke and Kaizheng Wang   <br>
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
-  <a href="http://yuan-ke.github.io/files/FARMselect.pdf">[PDF]</a>
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
 
   <li>
   <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
   Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma  <br>
-  <i>NeurIPS 2019</i>,   
-  <a href="https://arxiv.org/abs/2106.05838">[arXiv]</a>
+  <i>NeurIPS 2019
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Link]</a>  
   </li>
 
   <li>
   <b>User-friendly covariance estimation for heavy-tailed distributions</b> <br>
   Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun and Wen-xin Zhou  <br>
-  <i>Statistical Science</i>, <b>34</b>, 454-471, 2019  
-  <a href="http://yuan-ke.github.io/files/RobustCov.pdf">[PDF]</a>
-  <a href="http://yuan-ke.github.io/files/RobustCov_supp.pdf">[Supp]</a>   
+  <i>Statistical Science</i>, <b>34</b>, 454-471, 2019   
   <a href="http://dx.doi.org/10.1214/19-STS711">[DOI]</a>  
   </li>
 
@@ -176,8 +175,6 @@ author_profile: true
   <b>FarmTest: Factor-Adjusted Robust Multiple Testing With Approximate False Discovery Control</b> <br>
   Jianqing Fan, Yuan Ke, Qiang Sun and Wen-xin Zhou  <br>
   <i>Journal of the American Statistical Association</i>, <b>114</b>, 1880-1893, 2019  
-  <a href="http://yuan-ke.github.io/files/FarmTest.pdf">[PDF]</a>
-  <a href="http://yuan-ke.github.io/files/FarmTest_supp.pdf">[Supp]</a>   
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
 
@@ -191,23 +188,21 @@ author_profile: true
   <li>
   <b>Structure Identification in Panel Data Analysis</b> <br>
   Yuan Ke, Jialiang Li and Wenyang Zhang <br>
-  <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016  <a href="http://yuan-ke.github.io/files/KeLiZhang_16.pdf">[PDF]</a>  
-  <a href="http://yuan-ke.github.io/files/KeLiZhang_16_supp.pdf">[Supp]</a>  
+  <i>The Annals of Statistics</i>, <b>44</b>, 1193 – 1233, 2016 
   <a href="https://projecteuclid.org/euclid.aos/1460381691">[DOI]</a>  
   </li>
 
   <li>
   <b>A Semi-Varying Coefficient Multinomial Logistic Regression for Prognostic Classification with Application to Stratified Medicine</b> <br>
   Yuan Ke, Bo Fu and Wenyang Zhang <br>
-  <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016  <a href="http://yuan-ke.github.io/files/KeFuZhang_16.pdf">[PDF]</a>  
+  <i>Statistics in Medicine</i>, <b>35</b>, 4764 – 4778, 2016  
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
 
   <li>
   <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
   Degui Li, Yuan Ke and Wenyang Zhang <br>
-  <i>The Annals of Statistics</i>, <b>43</b>, 2676-2705, 2015  <a href="http://yuan-ke.github.io/files/LiKeZhang_15.pdf">[PDF]</a>  
-  <a href="http://yuan-ke.github.io/files/LiKeZhang_15_supp.pdf">[Supp]</a>  
+  <i>The Annals of Statistics</i>, <b>43</b>, 2676-2705, 2015  
   <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
   </li>
 
