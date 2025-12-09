@@ -19,11 +19,11 @@ author_profile: true
 **Thesis title**: _Scalable and Efficient Learning: Algorithmic Advances for Time Series and Deep Neural Models_  
 **First position**: University of Wisconsin–Madison</span>  
 
-* <span style="font-size:1.0em;">Tianyi Zhang(2025)  
+* <span style="font-size:1.0em;">Tianyi Zhang (2025)  
 **Thesis title**: _Robust Statistical Methods and Advanced Computational Techniques for High-Dimensional Data Analysis_  
 **First position**: Tencent Games</span>
 
-* <span style="font-size:1.0em;">Dan Luo(2024)  
+* <span style="font-size:1.0em;">Dan Luo (2024)  
 **Thesis title**: _On Robust Statistical Estimation for Complicated Time Series_  
 **First position**: Astellas Pharma</span>
 
