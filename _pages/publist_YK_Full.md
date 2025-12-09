@@ -136,7 +136,7 @@ author_profile: true
   <li>
   <b>L_0 Optimization with Robust Non-Oracular Quantum Search</b> <br>
   Tianyi Zhang and  Yuan Ke.    <br>
-  <i>Technologies</i>, <b>11</b>(5), 148, 2023   
+  <i>Technologies</i>, <b>11</b>, 148, 2023   
   <a href="https://doi.org/10.3390/technologies11050148">[DOI]</a>  
   </li>
 
