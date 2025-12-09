@@ -241,7 +241,7 @@ author_profile: true
 
 
   <li>
-  <b>FarmTest: An R package for factor-adjusted robust multiple testing</b> <br>
+  <b>FarmTest: An R package for Factor-adjusted Robust Multiple Testing</b> <br>
   Koushiki Bose, Jianqing Fan, Yuan Ke, Xiaoou Pan, and Wen-xin Zhou       <br>
   <i>The R Journal</i>, <b>12</b>, 389-402, 2021
   <a href="https://journal.r-project.org/archive/2021/RJ-2021-023/index.html">[DOI]</a>  
@@ -263,14 +263,14 @@ author_profile: true
 
 
   <li>
-  <b>Large-scale optimal transport map estimation using projection pursuit</b> <br>
+  <b>Large-scale Optimal Transport Map Estimation Using Projection Pursuit</b> <br>
   Cheng Meng, Yuan Ke, et al.  <br>
   <i>NeurIPS 2019</i>,   
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Paper]</a>  
   </li>
 
   <li>
-  <b>User-friendly covariance estimation for heavy-tailed distributions</b> <br>
+  <b>User-friendly Covariance Estimation for Heavy-tailed Distributions</b> <br>
   Yuan Ke, Stanislav Minsker, Zhao Ren, Qiang Sun, and Wen-xin Zhou  <br>
   <i>Statistical Science</i>, <b>34</b>, 454-471, 2019  
   <a href="http://dx.doi.org/10.1214/19-STS711">[DOI]</a>  
@@ -320,7 +320,7 @@ author_profile: true
 
 
   <li>
-  <b>Model selection and structure specification in ultra-high dimensional generalised semi-varying coefficient models</b> <br>
+  <b>Model Selection and Structure Specification in Ultra-high Dimensional Generalised Semi-varying Coefficient Models</b> <br>
   Degui Li, Yuan Ke, and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>43</b>, 2676-2705, 2015  
   <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
