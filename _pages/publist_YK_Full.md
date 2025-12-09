@@ -70,6 +70,14 @@ author_profile: true
 
 
   <li>
+  <b>BedDot: Engagement-free and Contactless Bed Occupancy and Vital Signs Monitoring</b> <br>
+  Yingjian Song, ...,  Yuan Ke, et al.    <br>
+  <i>IEEE Internet of Things Journal</i>, <b>11</b>, 148, 2022   
+  <a href="https://doi.org/10.1109/JIOT.2023.3316674">[DOI]</a>  
+  </li>
+
+
+  <li>
   <b>Dimension Reduction in Time Series Under the Presence of Conditional Heteroscedasticity</b> <br>
   Murilo da Silva, T.N. Sriram and Yuan Ke <br>
   <i>Computational Statistics & Data Analysis</i>, <b>180</b>, 107682, 2023
@@ -82,12 +90,11 @@ author_profile: true
   -->
 
   <li>
-  <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
-  Xiaochuan Li, Yuan Ke, et al.      <br>
-  <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[Paper]</a>   
+  <b>Learning High Dimensional Multi-response Linear Models with Non-oracular Quantum Search</b> <br>
+  Jinyang Chen, Cheolwoo Park, and Yuan Ke.      <br>
+  <i>2022 IEEE International Conference on Quantum Computing and Engineering (IEEE QCE)</i>, 2022  
+    <a href="https://doi.org/10.1109/QCE53715.2022.00018">[DOI]</a>   
   </li>
-
 
   <li>
   <b>Estimation of Low Rank High Dimensional Multivariate Linear Models for Multi-response Data</b> <br>
@@ -95,6 +102,15 @@ author_profile: true
   <i>Journal of the American Statistical Association</i>, <b>117</b>, 693-703, 2022   
   <a href="https://doi.org/10.1080/01621459.2020.1799813">[DOI]</a>  
   </li>
+
+
+  <li>
+  <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
+  Xiaochuan Li, Yuan Ke, et al.      <br>
+  <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-12053-4_49">[Paper]</a>   
+  </li>
+
 
   <li>
   <b>Model-free Feature Screening and FDR Control with Knockoff Features</b> <br>
@@ -107,6 +123,14 @@ author_profile: true
   <!-- 
   <span style="font-size:1.1em;"> <b>2021</b></span>
   -->
+
+
+  <li>
+  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
+  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
+  <i>Journal of Business & Economic Statistics</i>, <b>40</b>, 96-110, 2021   
+  <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
+  </li>
 
   <li>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
@@ -123,12 +147,7 @@ author_profile: true
   <a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_24.pdf">[Paper]</a>  
   </li>
 
-  <li>
-  <b>High Dimensional Dynamic Covariance Matrices with Homogeneous Structure</b> <br>
-  Yuan Ke, Heng Lian and Wenyang Zhang  <br>
-  <i>Journal of Business & Economic Statistics</i>, <b>40</b>, 96-110, 2021   
-  <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
-  </li>
+
 
   <li>
   <b>Augmented Factor Models with Applications to Validating Market Risk Factors and Forecasting Bond Risk Premia</b> <br>
