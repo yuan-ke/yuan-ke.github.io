@@ -62,11 +62,19 @@ author_profile: true
 
 
 
+  <li>
+  <b>Structural Identification for Spatio-Temporal Dynamic Models</b> <br>
+  Rongmao Zhang, Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
+  <i>Journal of the American Statistical Association</i>, accepted, 2025+   
+  
+
+
+
 
   <li>
   <b>Hypothesis Test in High Dimensional Multi-response Linear Models</b> <br>
   Yuan Ke, Rongmao Zhang, Wenyang Zhang, and Changliang Zou    <br>
-  <i>Computational Statistics & Data Analysis</i>, <b>215</b>, 108303, 2026   
+  <i>Computational Statistics & Data Analysis</i>, <b>215</b>, 108303, 2025+   
   <a href="https://doi.org/10.1016/j.csda.2025.108303">[DOI]</a>  
   </li>
 
@@ -83,7 +91,7 @@ author_profile: true
   <li>
   <b>Large Precision Matrix Estimation with Unknown Group Structure</b> <br>
   Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
-  <i>Journal of the American Statistical Association</i>, accepted, 2025   
+  <i>Journal of the American Statistical Association</i>,  <b>120</b>, 2326-2337,, 2025   
   <a href="https://doi.org/10.1080/01621459.2024.2442092">[DOI]</a>  
   </li>
 
