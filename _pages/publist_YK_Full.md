@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 
 
-  <ol reversed style="font-size:15px">
+  <ol reversed style="font-size:17px">
 
 
 
