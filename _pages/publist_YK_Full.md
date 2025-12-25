@@ -334,7 +334,7 @@ author_profile: true
   <a href="https://projecteuclid.org/euclid.aos/1444222089">[DOI]</a>  
   </li>
 
-  </ol>
+
 
 <!--
 ## Preprints
