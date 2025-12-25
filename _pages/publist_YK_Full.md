@@ -91,7 +91,7 @@ author_profile: true
   <li>
   <b>Large Precision Matrix Estimation with Unknown Group Structure</b> <br>
   Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
-  <i>Journal of the American Statistical Association</i>,  <b>120</b>, 2326-2337,, 2025   
+  <i>Journal of the American Statistical Association</i>,  <b>120</b>, 2326-2337, 2025   
   <a href="https://doi.org/10.1080/01621459.2024.2442092">[DOI]</a>  
   </li>
 
