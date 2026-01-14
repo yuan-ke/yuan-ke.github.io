@@ -114,7 +114,7 @@ author_profile: true
   </li>
 
 
-  <!-- 
+  <!--
   <span style="font-size:1.1em;"> <b>2022</b></span>
   -->
 
@@ -135,7 +135,7 @@ author_profile: true
 
   <li>
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
-  Xiaochuan Li, Yuan Ke, et al.      <br>
+  Xiaochuan Li, and Yuan Ke.      <br>
   <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
     <a href=" https://doi.org/10.1007/978-3-031-12053-4_49">[DOI]</a>   
   </li>
@@ -149,7 +149,7 @@ author_profile: true
   </li>
 
 
-  <!-- 
+  <!--
   <span style="font-size:1.1em;"> <b>2021</b></span>
   -->
 
@@ -192,7 +192,7 @@ author_profile: true
   <a href="http://jmlr.org/papers/v22/19-1018.html">[DOI]</a>  
   </li>
 
-  <!-- 
+  <!--
   <span style="font-size:1.1em;"> <b>2020</b></span>
   -->
 
@@ -214,7 +214,7 @@ author_profile: true
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
 
-  <!-- 
+  <!--
   <span style="font-size:1.1em;"> <b>2019</b></span>
   -->
 
@@ -240,7 +240,7 @@ author_profile: true
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
 
-  <!-- 
+  <!--
    <span style="font-size:1.1em;"> <b>2018</b></span>
   -->
 
@@ -252,7 +252,7 @@ author_profile: true
   <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
   </li>
 
-  <!-- 
+  <!--
    <span style="font-size:1.1em;"> <b>2016</b></span>
   -->
 
@@ -271,7 +271,7 @@ author_profile: true
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
 
-  <!-- 
+  <!--
   <span style="font-size:1.1em;"> <b>2015</b></span>
   -->
 
@@ -284,5 +284,3 @@ author_profile: true
   </li>
 
   </ol>
-
-
