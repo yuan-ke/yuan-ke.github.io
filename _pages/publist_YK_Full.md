@@ -12,9 +12,19 @@ author_profile: true
 
 
   <li>
+  <b>Mapping spatial and social inequities of long COVID across the United States: a retrospective cohort Study</b> <br>
+  Zetao Chen, ..., Yuan Ke, et al.      <br>
+  <i>The Lancet Regional Health - Americas</i>, 2026  
+    <a href="https://doi.org/10.1101/2025.08.21.25334183">[DOI]</a>   
+  </li>
+
+
+
+
+  <li>
   <b>Structural Identification for Spatio-Temporal Dynamic Models</b> <br>
   Rongmao Zhang, Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
-  <i>Journal of the American Statistical Association</i>, accepted, 2025+   
+  <i>Journal of the American Statistical Association</i>, accepted, 2025+  
   </li>
 
 
