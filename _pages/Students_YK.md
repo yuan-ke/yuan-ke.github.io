@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 ## Current Ph.D. students
-            
+
 * <span style="font-size:1.0em;">Cong Cheng</span>     
 * <span style="font-size:1.0em;">Bingnan Li</span>
 * <span style="font-size:1.0em;">Byoungseok Choi</span>      
+* <span style="font-size:1.0em;">Samuel Ewusi Dadzie</span>   
+* <span style="font-size:1.0em;">Xinyu Shi</span>   
 
 
 
@@ -29,7 +31,7 @@ author_profile: true
 
 * <span style="font-size:1.0em;">Kaiwen Han (2023)  
 **Thesis title**: _Robust Autocovariance Change Point Analysis for Heavy-tailed Time Series_  
-**First position**: Wells Fargo</span> 
+**First position**: Wells Fargo</span>
 
 * <span style="font-size:1.0em;">Xiaochuan Li (2023)  
 **Thesis title**: _New Methods of Artificial Intelligence with Applications in the Analysis of Medical Data_  
