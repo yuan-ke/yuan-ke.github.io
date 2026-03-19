@@ -24,9 +24,9 @@ author_profile: true
   <li>
   <b>Structural Identification for Spatio-Temporal Dynamic Models</b> <br>
   Rongmao Zhang, Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
-  <i>Journal of the American Statistical Association</i>, accepted, 2025+  
+  <i>Journal of the American Statistical Association</i>, 2026  
+      <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2612774">[DOI]</a>   
   </li>
-
 
 
 
