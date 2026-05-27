@@ -13,6 +13,7 @@ author_profile: true
 * <span style="font-size:1.1em;">Time series analysis</span>      
 * <span style="font-size:1.1em;">Non/Semi-parametric modeling</span>           
 * <span style="font-size:1.1em;">Financial Econometrics</span>     
+* <span style="font-size:1.1em;">Quantum Statistical Learning</span>  
 
 <!--
 ## Editorial Service
