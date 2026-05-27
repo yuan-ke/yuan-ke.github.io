@@ -16,6 +16,16 @@ was the Bruce Lindsay Visiting Assistant Professor in the Department of Statisti
 I am glad to announce that a workshop focused on "Factor Modelling for Complex Time Series Data and Tensors" will take place in University of Bristol on December 14-15, 2023. This workshop is co-organized by [Dr. Haeran Cho](https://sites.google.com/view/haeran-cho/home) and I. Please check this [webpage](https://sites.google.com/view/haeran-cho/workshop-2023) for the schedule of the workshop. We sincerely appreciate Heilbronn Institute for Mathematical Research, London Mathematical Society, and University of Bristol for their generous sponsorship of this workshop!
 </span>
 -->
+
+## Editorial service
+
+* <span style="font-size:1.2em;"> Associate Editor for Journal of the American Statistical Association: Theory and Methods (05/2026-Present)</span>
+* <span style="font-size:1.2em;"> Associate Editor for Journal of Business & Economic Statistics (01/2025-Present)</span>
+* <span style="font-size:1.2em;"> Associate Editor for Statistics (01/2024-Present)</span>
+
+
+
+
 ## Contact information
 
 * <span style="font-size:1.2em;">**Address**: 404 Brooks Hall, Athens, GA 30602</span>
