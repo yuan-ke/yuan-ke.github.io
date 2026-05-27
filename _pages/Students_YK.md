@@ -5,9 +5,8 @@ author_profile: true
 
 ---
 
-## Current Ph.D. students
-
-* <span style="font-size:1.0em;">Cong Cheng</span>     
+## Current Ph.D. Students
+  
 * <span style="font-size:1.0em;">Bingnan Li</span>
 * <span style="font-size:1.0em;">Byoungseok Choi</span>      
 * <span style="font-size:1.0em;">Samuel Ewusi Dadzie</span>   
@@ -15,7 +14,11 @@ author_profile: true
 
 
 
-## Graduated Ph.D. students
+## Graduated Ph.D. Students
+
+* <span style="font-size:1.0em;">Cong Cheng (2026)  
+**Thesis title**: _Latent Structure Learning in High-Dimensional Models: Theory and Applications_  
+**First position**: ByteDance</span>
 
 * <span style="font-size:1.0em;">Hyunseok Seung (2025, co-advised with  Dr. Jaewoo Lee)  
 **Thesis title**: _Scalable and Efficient Learning: Algorithmic Advances for Time Series and Deep Neural Models_  
@@ -47,7 +50,7 @@ author_profile: true
 
 
 
-## Graduated Master students
+## Graduated Master Students
 
 * <span style="font-size:1.0em;">Nikhik Ranjan (2022)  </span>
 * <span style="font-size:1.0em;">Bingnan Li (2022)   </span>
