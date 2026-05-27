@@ -13,7 +13,7 @@ author_profile: true
   <li>
   <b>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</b> <br>
    Hyunseok Seung, Kaiwen Han, Ye Shen, and Yuan Ke <br>
-  <i>Stat</i>, <b>14</b>, 2026
+  <i>Stat</i>,  2026
     <a href="https://doi.org/10.1002/sta4.70159">[DOI]</a>   
   </li>
 
