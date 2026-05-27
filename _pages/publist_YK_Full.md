@@ -10,6 +10,13 @@ author_profile: true
   <ol reversed style="font-size:17px">
 
 
+  <li>
+  <b>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</b> <br>
+   Hyunseok Seung, Kaiwen Han, Ye Shen, and Yuan Ke <br>
+  <i>Stat</i>, <b>14</b>, 2026
+    <a href="https://doi.org/10.1002/sta4.70159">[DOI]</a>   
+  </li>
+
 
   <li>
   <b>Mapping spatial and social inequities of long COVID across the United States: a retrospective cohort Study</b> <br>
