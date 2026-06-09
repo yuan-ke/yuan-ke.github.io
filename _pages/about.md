@@ -22,8 +22,8 @@ I am glad to announce that a workshop focused on "Factor Modelling for Complex T
 ## Editorial Service
 
 * <span style="font-size:1.2em;"> Associate Editor for Journal of the American Statistical Association: Theory and Methods (05/2026-Present)</span>
-* <span style="font-size:1.2em;"> Associate Editor for Journal of Business & Economic Statistics (01/2025-Present)</span>
-* <span style="font-size:1.2em;"> Associate Editor for Statistics (01/2024-Present)</span>
+* <span style="font-size:1.2em;"> Associate Editor for Journal of Business & Economic Statistics (08/2024-Present)</span>
+* <span style="font-size:1.2em;"> Associate Editor for Statistics (01/2023-Present)</span>
 
 
 
