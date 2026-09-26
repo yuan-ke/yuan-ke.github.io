@@ -9,6 +9,33 @@ author_profile: true
 
   <ol reversed style="font-size:17px">
 
+  <li>
+  <b>Homogeneity-Pursuit Calibration of Item Response Theory Models with Limited Samples and Sparse Response Data</b> <br>
+  Zichu Liu, Cong Cheng, Yuan Ke, and Shiyu Wang <br>
+  <i>Multivariate Behavioral Research</i>, 2026, accepted
+  </li>
+
+  <li>
+  <b>Model-free and Distributionally Robust Feature Screening with False Discovery Control for High-Dimensional Heterogeneous Data</b> <br>
+  Cong Cheng, Runze Li, and Yuan Ke <br>
+  <i>Journal of Business & Economic Statistics</i>, 2026
+  <a href="https://doi.org/10.1080/07350015.2026.2703863">[DOI]</a>
+  </li>
+
+  <li>
+  <b>Model-free Feature Screening and False Discovery Control for High-dimensional Quantile Regressions</b> <br>
+  Cong Cheng, Tianyi Zhang, Runze Li, and Yuan Ke <br>
+  <i>Journal of the American Statistical Association</i>, 2026
+  <a href="https://doi.org/10.1080/01621459.2026.2729128">[DOI]</a>
+  </li>
+
+  <li>
+  <b>Non-Asymptotic Analysis of Median-of-Means Estimation for High-Dimensional Time Series</b> <br>
+  Haotian Xu, Dan Luo, Stéphane Guerrier, Runze Li, and Yuan Ke <br>
+  <i>Statistical Learning and Data Science</i>, <b>2</b>, 100008, 2026
+  <a href="https://doi.org/10.1016/j.slads.2026.100008">[DOI]</a>
+  </li>
+
 
   <li>
   <b>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</b> <br>
