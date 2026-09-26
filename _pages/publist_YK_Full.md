@@ -7,9 +7,9 @@ author_profile: true
 ## Publications
 
 
-  <ol reversed style="font-size:17px">
+  <ol reversed class="publist">
 
-  <li>
+  <li><span class="pub-year">2026</span>
   <b>Homogeneity-Pursuit Calibration of Item Response Theory Models with Limited Samples and Sparse Response Data</b> <br>
   Zichu Liu, Cong Cheng, Yuan Ke, and Shiyu Wang <br>
   <i>Multivariate Behavioral Research</i>, 2026, accepted
@@ -39,7 +39,7 @@ author_profile: true
 
   <li>
   <b>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</b> <br>
-   Hyunseok Seung, Kaiwen Han, Ye Shen, and Yuan Ke <br>
+  Hyunseok Seung, Kaiwen Han, Ye Shen, and Yuan Ke <br>
   <i>Stat</i>,  2026
     <a href="https://doi.org/10.1002/sta4.70159">[DOI]</a>   
   </li>
@@ -72,7 +72,7 @@ author_profile: true
   </li>
 
 
-  <li>
+  <li><span class="pub-year">2025</span>
   <b>Robust COVID-19 Mortality Risk Assessment: Validation of a Two-Step Algorithm From the National COVID Cohort Collaborative</b> <br>
   Bingnan Li, Yuan Ke, Xianyan Chen, Leonardo Martinez, and Ye Shen<br>
   <i>The Journal of Infectious Diseases</i>, jiaf393, 2025   
@@ -98,7 +98,7 @@ author_profile: true
   </li>
 
 
-  <li>
+  <li><span class="pub-year">2024</span>
   <b>Consistent Sampling with Smoothed Quantum Walk</b> <br>
   Tianyi Zhang and Yuan Ke.      <br>
   <i>2024 IEEE International Conference on Quantum Computing and Engineering (IEEE QCE)</i>, 2024  
@@ -134,7 +134,7 @@ author_profile: true
 
 
 
-  <li>
+  <li><span class="pub-year">2023</span>
   <b>L_0 Optimization with Robust Non-Oracular Quantum Search</b> <br>
   Tianyi Zhang and  Yuan Ke.    <br>
   <i>Technologies</i>, <b>11</b>, 148, 2023   
@@ -158,11 +158,8 @@ author_profile: true
   </li>
 
 
-  <!--
-  <span style="font-size:1.1em;"> <b>2022</b></span>
-  -->
 
-  <li>
+  <li><span class="pub-year">2022</span>
   <b>Learning High Dimensional Multi-response Linear Models with Non-oracular Quantum Search</b> <br>
   Jinyang Chen, Cheolwoo Park, and Yuan Ke.      <br>
   <i>2022 IEEE International Conference on Quantum Computing and Engineering (IEEE QCE)</i>, 2022  
@@ -193,9 +190,6 @@ author_profile: true
   </li>
 
 
-  <!--
-  <span style="font-size:1.1em;"> <b>2021</b></span>
-  -->
 
 
   <li>
@@ -205,7 +199,7 @@ author_profile: true
   <a href="https://doi.org/10.1080/07350015.2020.1779079">[DOI]</a>  
   </li>
 
-  <li>
+  <li><span class="pub-year">2021</span>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
   Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
   <i>IEEE DSS-2021</i>, 2021   
@@ -236,9 +230,6 @@ author_profile: true
   <a href="http://jmlr.org/papers/v22/19-1018.html">[DOI]</a>  
   </li>
 
-  <!--
-  <span style="font-size:1.1em;"> <b>2020</b></span>
-  -->
 
 
   <li>
@@ -251,19 +242,16 @@ author_profile: true
 
 
 
-  <li>
+  <li><span class="pub-year">2020</span>
   <b>Factor-Adjusted Regularized Model Selection</b> <br>
   Jianqing Fan, Yuan Ke, and Kaizheng Wang   <br>
   <i>Journal of Econometrics</i>, <b>216</b>, 71-85, 2020
   <a href="https://doi.org/10.1016/j.jeconom.2020.01.006">[DOI]</a>  
   </li>
 
-  <!--
-  <span style="font-size:1.1em;"> <b>2019</b></span>
-  -->
 
 
-  <li>
+  <li><span class="pub-year">2019</span>
   <b>Large-scale Optimal Transport Map Estimation Using Projection Pursuit</b> <br>
   Cheng Meng, Yuan Ke, et al.  <br>
   <i>NeurIPS 2019</i>,   
@@ -284,24 +272,18 @@ author_profile: true
   <a href="https://doi.org/10.1080/01621459.2018.1527700">[DOI]</a>  
   </li>
 
-  <!--
-   <span style="font-size:1.1em;"> <b>2018</b></span>
-  -->
 
 
-  <li>
+  <li><span class="pub-year">2018</span>
   <b>Nonlinear Regression Using Subset-Based Kernel Principal Components</b> <br>
   Yuan Ke, Degui Li, and Qiwei Yao <br>
   <i>Statistica Sinica</i>, <b>28</b>, 2771-2794, 2018   
   <a href="http://www3.stat.sinica.edu.tw/statistica/J28N5/J28N528/J28N528.html">[DOI]</a>  
   </li>
 
-  <!--
-   <span style="font-size:1.1em;"> <b>2016</b></span>
-  -->
 
 
-  <li>
+  <li><span class="pub-year">2016</span>
   <b>Structure Identification in Panel Data Analysis</b> <br>
   Yuan Ke, Jialiang Li, and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>44</b>, 1193–1233, 2016    
@@ -315,12 +297,9 @@ author_profile: true
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7034">[DOI]</a>  
   </li>
 
-  <!--
-  <span style="font-size:1.1em;"> <b>2015</b></span>
-  -->
 
 
-  <li>
+  <li><span class="pub-year">2015</span>
   <b>Model Selection and Structure Specification in Ultra-high Dimensional Generalised Semi-varying Coefficient Models</b> <br>
   Degui Li, Yuan Ke, and Wenyang Zhang <br>
   <i>The Annals of Statistics</i>, <b>43</b>, 2676-2705, 2015  

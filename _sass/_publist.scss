@@ -1,0 +1,45 @@
+/* ==========================================================================
+   Publication list (_pages/publist_YK_Full.md)
+   Years sit in the left margin next to the first paper of each year, so they
+   add no extra lines. To start a new year, put
+   <span class="pub-year">YYYY</span> right after that year's first <li>.
+   ========================================================================== */
+
+$pub-year-color  : mix(#000, $link-color, 30%);  // deeper shade of the link colour
+$pub-year-gutter : 5em;                           // space for year + list number
+
+.publist {
+  font-size: 17px;
+  margin-left: 0;
+  padding-left: $pub-year-gutter;
+
+  li {
+    position: relative;
+    margin-bottom: 0.7em;
+  }
+}
+
+.pub-year {
+  position: absolute;
+  top: 0;
+  left: -$pub-year-gutter / 1.12;  // align with the page heading
+  font-family: $serif;
+  font-size: 1.12em;
+  font-weight: 700;
+  line-height: 1.45;
+  letter-spacing: 0.03em;
+  color: $pub-year-color;
+  font-variant-numeric: lining-nums;
+}
+
+/* Phones: the margin is too narrow, so the year moves to a small label
+   just above that year's first paper. */
+@include breakpoint(max-width $small) {
+  .publist { padding-left: 1.9em; }
+  .publist li:has(.pub-year) { margin-top: 1.6em; }
+  .pub-year {
+    top: -1.45em;
+    left: -1.9em;
+    font-size: 0.95em;
+  }
+}
