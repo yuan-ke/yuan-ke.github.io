@@ -9,7 +9,7 @@ author_profile: true
 
   <ol reversed class="publist">
 
-  <li><span class="pub-year">2026</span>
+  <li><span class="pub-year">2026+</span>
   <b>Homogeneity-Pursuit Calibration of Item Response Theory Models with Limited Samples and Sparse Response Data</b> <br>
   Zichu Liu, Cong Cheng, Yuan Ke, and Shiyu Wang <br>
   <i>Multivariate Behavioral Research</i>, 2026, accepted
