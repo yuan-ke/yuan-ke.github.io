@@ -1,36 +1,13 @@
-# main links links
+# Top navigation menu
 main:
   - title: "Research"
     url: /research/
 
-
   - title: "Publications"
-    #url: /publication/
     url: /publication_full/
-
-  #- title: "Talks"
-    #url: /talks/
-
- 
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Students"
     url: /students/
-
-
-  #- title: "Students"
-    #url: /students/
-
-  #- title: "Portfolio"
-    #url: /portfolio/
-
-  #- title: "Blog Posts"
-    #url: /year-archive/
-
-  #- title: "CV"
-    #url: /cv/
-
-  #- title: "Guide"
-    #url: /markdown/
