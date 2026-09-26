@@ -16,17 +16,17 @@ author_profile: true
   </li>
 
   <li>
-  <b>Model-free and Distributionally Robust Feature Screening with False Discovery Control for High-Dimensional Heterogeneous Data</b> <br>
-  Cong Cheng, Runze Li, and Yuan Ke <br>
-  <i>Journal of Business & Economic Statistics</i>, 2026
-  <a href="https://doi.org/10.1080/07350015.2026.2703863">[DOI]</a>
-  </li>
-
-  <li>
   <b>Model-free Feature Screening and False Discovery Control for High-dimensional Quantile Regressions</b> <br>
   Cong Cheng, Tianyi Zhang, Runze Li, and Yuan Ke <br>
   <i>Journal of the American Statistical Association</i>, 2026
   <a href="https://doi.org/10.1080/01621459.2026.2729128">[DOI]</a>
+  </li>
+
+  <li>
+  <b>Model-free and Distributionally Robust Feature Screening with False Discovery Control for High-Dimensional Heterogeneous Data</b> <br>
+  Cong Cheng, Runze Li, and Yuan Ke <br>
+  <i>Journal of Business & Economic Statistics</i>, 2026
+  <a href="https://doi.org/10.1080/07350015.2026.2703863">[DOI]</a>
   </li>
 
   <li>
