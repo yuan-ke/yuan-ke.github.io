@@ -5,8 +5,9 @@
    <span class="pub-year">YYYY</span> right after that year's first <li>.
    ========================================================================== */
 
-$pub-year-color  : mix(#000, $link-color, 30%);  // deeper shade of the link colour
-$pub-year-gutter : 5.6em;                         // space for year + list number
+$pub-accent-color : mix(#000, $link-color, 30%);  // deep teal: year labels + links
+$pub-year-gutter  : 5.6em;  // left margin holding the year and the list number
+$pub-number-space : 2.4em;  // room kept free for the list number ("36.")
 
 .publist {
   font-size: 17px;
@@ -17,19 +18,30 @@ $pub-year-gutter : 5.6em;                         // space for year + list numbe
     position: relative;
     margin-bottom: 0.7em;
   }
+
+  a,
+  a:visited {
+    color: $pub-accent-color;
+  }
+
+  a:hover {
+    color: mix(#000, $pub-accent-color, 25%);
+  }
 }
 
+/* The year's RIGHT edge is anchored just left of the list number, so a wider
+   label (e.g. "2026+") or a wider font grows leftwards and never overlaps. */
 .pub-year {
   position: absolute;
   top: 0;
-  left: -$pub-year-gutter / 1.12;  // align with the page heading
+  right: calc(100% + #{$pub-number-space});
   font-family: $serif;
-  font-size: 1.12em;
+  font-size: 1em;
   font-weight: 700;
-  line-height: 1.45;
-  letter-spacing: 0.03em;
-  color: $pub-year-color;
-  font-variant-numeric: lining-nums;
+  line-height: inherit;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  color: $pub-accent-color;
 }
 
 /* Phones: the margin is too narrow, so the year moves to a small label
@@ -38,7 +50,8 @@ $pub-year-gutter : 5.6em;                         // space for year + list numbe
   .publist { padding-left: 1.9em; }
   .publist li:has(.pub-year) { margin-top: 1.6em; }
   .pub-year {
-    top: -1.45em;
+    right: auto;
+    top: -1.55em;
     left: -1.9em;
     font-size: 0.95em;
   }
