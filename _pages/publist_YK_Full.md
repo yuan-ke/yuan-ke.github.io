@@ -10,6 +10,12 @@ author_profile: true
   <ol reversed class="publist">
 
   <li><span class="pub-year">2026+</span>
+  <b>Mortality After SARS-CoV-2 Infection in Dementia Patients: Synergistic Effects of Donepezil and Metformin Treatment</b> <br>
+  Bingnan Li, Andreas Handel, Ye Shen, Yuan Ke, Joy Phillips, and Veronika I. Zarnitsyna <br>
+  <i>The Journal of Infectious Diseases</i>, 2026, accepted
+  </li>
+
+  <li>
   <b>Homogeneity-Pursuit Calibration of Item Response Theory Models with Limited Samples and Sparse Response Data</b> <br>
   Zichu Liu, Cong Cheng, Yuan Ke, and Shiyu Wang <br>
   <i>Multivariate Behavioral Research</i>, 2026, accepted
