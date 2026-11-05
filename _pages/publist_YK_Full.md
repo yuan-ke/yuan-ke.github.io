@@ -9,9 +9,16 @@ author_profile: true
 
   <ol reversed class="publist">
 
+  <li>
+  <b>Long COVID burden attributable to preexisting comorbidity: a retrospective cohort study</b> <br>
+  Kehinde Ogunyemi, ..., Yuan Ke, et al.      <br>
+  <i>The Lancet Regional Health - Americas</i>, 2026, accepted   
+  </li>
+
+
   <li><span class="pub-year">2026+</span>
   <b>Mortality After SARS-CoV-2 Infection in Dementia Patients: Synergistic Effects of Donepezil and Metformin Treatment</b> <br>
-  Bingnan Li, Andreas Handel, Ye Shen, Yuan Ke, Joy Phillips, and Veronika I. Zarnitsyna <br>
+  Bingnan Li, ..., Yuan Ke, et al. <br>
   <i>The Journal of Infectious Diseases</i>, 2026, accepted
   </li>
 
