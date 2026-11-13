@@ -17,9 +17,10 @@ author_profile: true
 
 
   <li>
-  <b>Mortality After SARS-CoV-2 Infection in Dementia Patients: Synergistic Effects of Donepezil and Metformin Treatment</b> <br>
+  <b>Potential Synergistic Association of Donepezil and Metformin With COVID-19 Mortality in Dementia Patients</b> <br>
   Bingnan Li, ..., Yuan Ke, et al. <br>
-  <i>The Journal of Infectious Diseases</i>, 2026, accepted
+  <i>The Journal of Infectious Diseases</i>, jiag528, 2026
+  <a href="https://doi.org/10.1093/infdis/jiag528">[DOI]</a>
   </li>
 
   <li>
