@@ -44,6 +44,21 @@ $pub-number-space : 2.4em;  // room kept free for the list number ("36.")
   color: $pub-accent-color;
 }
 
+/* "[all authors]" / "[fewer]" toggle for long author lists
+   (added by assets/js/authors-toggle.js) */
+.authors-toggle {
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: $pub-accent-color;
+  text-decoration: underline;
+  cursor: pointer;
+
+  &:hover { color: mix(#000, $pub-accent-color, 25%); }
+  &:focus-visible { outline: 2px solid $pub-accent-color; outline-offset: 2px; }
+}
+
 /* Phones: the margin is too narrow, so the year moves to a small label
    just above that year's first paper. */
 @include breakpoint(max-width $small) {

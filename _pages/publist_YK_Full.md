@@ -11,14 +11,14 @@ author_profile: true
 
   <li><span class="pub-year">2026+</span>
   <b>Long COVID burden attributable to preexisting comorbidity: a retrospective cohort study</b> <br>
-  Kehinde Ogunyemi, ..., Yuan Ke, et al.      <br>
+  <span class="authors" data-full="Kehinde Ogunyemi, Ye Shen, Bingnan Li, Zhetao Chen, Jialing Liu, Yewen Chen, Fangzhi Luo, Yang Ge, Yuan Ke, Leonardo Martinez, Zhuo Chen, Suhang Song, Tiffany Walker, and Xianyan Chen">Kehinde Ogunyemi, ..., Yuan Ke, et al.</span> <br>
   <i>The Lancet Regional Health - Americas</i>, 2026, accepted   
   </li>
 
 
   <li>
   <b>Potential Synergistic Association of Donepezil and Metformin With COVID-19 Mortality in Dementia Patients</b> <br>
-  Bingnan Li, ..., Yuan Ke, et al. <br>
+  <span class="authors" data-full="Bingnan Li, Andreas Handel, Ye Shen, Yuan Ke, Joy A. Phillips, and Veronika I. Zarnitsyna, on behalf of the N3C Consortium">Bingnan Li, ..., Yuan Ke, et al.</span> <br>
   <i>The Journal of Infectious Diseases</i>, jiag528, 2026
   <a href="https://doi.org/10.1093/infdis/jiag528">[DOI]</a>
   </li>
@@ -61,9 +61,9 @@ author_profile: true
 
   <li>
   <b>Mapping spatial and social inequities of long COVID across the United States: a retrospective cohort Study</b> <br>
-  Zetao Chen, ..., Yuan Ke, et al.      <br>
+  <span class="authors" data-full="Zhetao Chen, Bingnan Li, Yewen Chen, Jialing Liu, Fangzhi Luo, Kehinde Olawale Ogunyemi, Yang Ge, Yuan Ke, Yang Yang, Xianyan Chen, and Ye Shen, on behalf of the N3C Consortium">Zhetao Chen, ..., Yuan Ke, et al.</span> <br>
   <i>The Lancet Regional Health - Americas</i>, 2026  
-    <a href="https://doi.org/10.1101/2025.08.21.25334183">[DOI]</a>   
+    <a href="https://doi.org/10.1016/j.lana.2026.101401">[DOI]</a>   
   </li>
 
 
@@ -122,7 +122,7 @@ author_profile: true
 
   <li>
   <b>Real-Time Continuous Blood Pressure Estimation with Contact-Free Bedseismogram</b> <br>
-  Yingjian Song, ..., Yuan Ke, et al.      <br>
+  <span class="authors" data-full="Yingjian Song, Bingnan Li, Dan Luo, Glenna S. Brewster Glasgow, Bradley G. Phillips, Yuan Ke, and Wenzhan Song">Yingjian Song, ..., Yuan Ke, et al.</span> <br>
   <i>2024 IEEE International Conference on Communications</i>, 2024  
     <a href="https://doi.org/10.1109/ICC51166.2024.10622995">[DOI]</a>   
   </li>
@@ -158,7 +158,7 @@ author_profile: true
 
   <li>
   <b>Engagement-free and Contactless Bed Occupancy and Vital Signs Monitoring</b> <br>
-  Yingjian Song, ...,  Yuan Ke, et al.    <br>
+  <span class="authors" data-full="Yingjian Song, Bingnan Li, Dan Luo, Zaipeng Xie, Bradley G. Phillips, Yuan Ke, and Wenzhan Song">Yingjian Song, ..., Yuan Ke, et al.</span> <br>
   <i>IEEE Internet of Things Journal</i>, <b>11</b>, 7935-7947, 2023   
   <a href="https://doi.org/10.1109/JIOT.2023.3316674">[DOI]</a>  
   </li>
@@ -215,7 +215,7 @@ author_profile: true
 
   <li><span class="pub-year">2021</span>
   <b>Enhance COVID-19 Mortality Prediction With Human Mobility Trend and Medical Information</b> <br>
-  Yogesh Chaudhari, ..., Yuan Ke, et al.      <br>
+  <span class="authors" data-full="Yogesh Chaudhari, Indrajeet Javeri, Ismailcem Arpinar, John A. Miller, Xiaochuan Li, Bingnan Li, Yuan Ke, Mohammadhossein Toutiaee, and Nicole Lazar">Yogesh Chaudhari, ..., Yuan Ke, et al.</span> <br>
   <i>IEEE DSS-2021</i>, 2021   
   <a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00190">[DOI]</a>  
   </li>
@@ -223,7 +223,7 @@ author_profile: true
 
   <li>
   <b>Improving COVID-19 Forecasting by Exogenous Variables</b> <br>
-  Mohammadhossein Toutiaee, ..., Yuan Ke, et al.     <br>
+  <span class="authors" data-full="Mohammadhossein Toutiaee, Xiaochuan Li, Yogesh Chaudhari, Shophine Sivaraja, Aishwarya Venkataraj, Indrajeet Javeri, Yuan Ke, Ismailcem Arpinar, Nicole Lazar, and John Miller">Mohammadhossein Toutiaee, ..., Yuan Ke, et al.</span> <br>
   <i>7th SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS)</i>, 2021   
   <a href="https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_24.pdf">[Paper]</a>  
   </li>
@@ -267,7 +267,7 @@ author_profile: true
 
   <li><span class="pub-year">2019</span>
   <b>Large-scale Optimal Transport Map Estimation Using Projection Pursuit</b> <br>
-  Cheng Meng, Yuan Ke, et al.  <br>
+  <span class="authors" data-full="Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong, and Ping Ma">Cheng Meng, Yuan Ke, et al.</span> <br>
   <i>NeurIPS 2019</i>,   
   <a href="https://papers.nips.cc/paper/9023-large-scale-optimal-transport-map-estimation-using-projection-pursuit">[Paper]</a>  
   </li>
