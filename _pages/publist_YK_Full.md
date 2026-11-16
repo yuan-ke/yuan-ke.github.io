@@ -109,7 +109,7 @@ author_profile: true
   <b>Computational Efficient General Convolutional Layer Selection for Transfer Learning</b> <br>
   Xiao Di, Bingnan Li, Wenzhan Song, and Yuan Ke <br>
   <i>Stat</i>, <b>14</b>, e70037, 2025
-    <a href="  https://doi.org/10.1002/sta4.70037">[DOI]</a>   
+    <a href="https://doi.org/10.1002/sta4.70037">[DOI]</a>   
   </li>
 
 
@@ -135,7 +135,7 @@ author_profile: true
   <b>Tensor Factor Adjustment for Image Classification with Pervasive Noises</b> <br>
   Xiaochuan Li, Bingnan Li, Wenzhan Song, and Yuan Ke <br>
   <i>Stat</i>, <b>13</b>, e705, 2024
-    <a href=" https://doi.org/10.1002/sta4.705">[DOI]</a>   
+    <a href="https://doi.org/10.1002/sta4.705">[DOI]</a>   
   </li>
 
 
@@ -193,7 +193,7 @@ author_profile: true
   <b>Privacy Preserving and Communication Efficient Information Enhancement for Imbalanced Medical Image Classification</b> <br>
   Xiaochuan Li, and Yuan Ke.      <br>
   <i>26th UK Conference on Medical Image Understanding and Analysis (MIUA)</i>, 2022  
-    <a href=" https://doi.org/10.1007/978-3-031-12053-4_49">[DOI]</a>   
+    <a href="https://doi.org/10.1007/978-3-031-12053-4_49">[DOI]</a>   
   </li>
 
 

@@ -36,3 +36,12 @@
     span.parentNode.insertBefore(document.createTextNode(' '), btn);
   });
 })();
+
+/* Open external links in the publication list ([DOI], [Paper], ...) in a new
+   tab, so the publication page stays open in the original tab. */
+(function () {
+  document.querySelectorAll('.publist a[href^="http"]').forEach(function (a) {
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+  });
+})();
