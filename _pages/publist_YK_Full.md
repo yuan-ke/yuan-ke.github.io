@@ -26,7 +26,8 @@ author_profile: true
   <li>
   <b>Homogeneity-Pursuit Calibration of Item Response Theory Models with Limited Samples and Sparse Response Data</b> <br>
   Zichu Liu, Cong Cheng, Yuan Ke, and Shiyu Wang <br>
-  <i>Multivariate Behavioral Research</i>, 2026, accepted
+  <i>Multivariate Behavioral Research</i>, 2026
+  <a href="https://doi.org/10.1080/00273171.2026.2737426">[DOI]</a>
   </li>
 
   <li>
@@ -52,17 +53,17 @@ author_profile: true
 
 
   <li>
-  <b>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Points Detection</b> <br>
+  <b>Enhancing COVID-19 Mortality Prediction with Online Autocovariance Change Point Detection</b> <br>
   Hyunseok Seung, Kaiwen Han, Ye Shen, and Yuan Ke <br>
-  <i>Stat</i>,  2026
+  <i>Stat</i>, <b>15</b>, e70159, 2026
     <a href="https://doi.org/10.1002/sta4.70159">[DOI]</a>   
   </li>
 
 
   <li>
-  <b>Mapping spatial and social inequities of long COVID across the United States: a retrospective cohort Study</b> <br>
+  <b>Mapping spatial and social inequities of long COVID across the United States: a retrospective cohort study</b> <br>
   <span class="authors" data-full="Zhetao Chen, Bingnan Li, Yewen Chen, Jialing Liu, Fangzhi Luo, Kehinde Olawale Ogunyemi, Yang Ge, Yuan Ke, Yang Yang, Xianyan Chen, and Ye Shen, on behalf of the N3C Consortium">Zhetao Chen, ..., Yuan Ke, et al.</span> <br>
-  <i>The Lancet Regional Health - Americas</i>, 2026  
+  <i>The Lancet Regional Health - Americas</i>, <b>56</b>, 101401, 2026
     <a href="https://doi.org/10.1016/j.lana.2026.101401">[DOI]</a>   
   </li>
 
@@ -73,7 +74,7 @@ author_profile: true
   <b>Structural Identification for Spatio-Temporal Dynamic Models</b> <br>
   Rongmao Zhang, Cong Cheng, Yuan Ke, and Wenyang Zhang    <br>
   <i>Journal of the American Statistical Association</i>, 2026  
-      <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2612774">[DOI]</a>   
+      <a href="https://doi.org/10.1080/01621459.2026.2612774">[DOI]</a>   
   </li>
 
 
